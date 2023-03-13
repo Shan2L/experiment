@@ -37,6 +37,7 @@ from data_loader import LandslideDataset
    如果只是训练了几个Step是不会保存的，Epoch和Step的概念要捋清楚一下。
 '''
 if __name__ == "__main__":
+    torch.manual_seed(2023)
     #---------------------------------#
     #   Cuda    是否使用Cuda
     #           没有GPU可以设置成False
@@ -154,7 +155,7 @@ if __name__ == "__main__":
     #------------------------------------------------------------------#
     Init_Epoch          = 0
     Freeze_Epoch        = 50
-    Freeze_batch_size   = 32
+    Freeze_batch_size   = 8
     #------------------------------------------------------------------#
     #   解冻阶段训练参数
     #   此时模型的主干不被冻结了，特征提取网络会发生改变
@@ -179,7 +180,7 @@ if __name__ == "__main__":
     #                   当使用SGD优化器时建议设置   Init_lr=7e-3
     #   Min_lr          模型的最小学习率，默认为最大学习率的0.01
     #------------------------------------------------------------------#
-    Init_lr             = 7e-3
+    Init_lr             = 5e-4
     Min_lr              = Init_lr * 0.01
     #------------------------------------------------------------------#
     #   optimizer_type  使用到的优化器种类，可选的有adam、sgd
@@ -199,7 +200,7 @@ if __name__ == "__main__":
     #------------------------------------------------------------------#
     #   save_period     多少个epoch保存一次权值
     #------------------------------------------------------------------#
-    save_period         = 5
+    save_period         = 10
     #------------------------------------------------------------------#
     #   save_dir        权值与日志文件保存的文件夹
     #------------------------------------------------------------------#
@@ -213,8 +214,7 @@ if __name__ == "__main__":
     #   （二）此处设置评估参数较为保守，目的是加快评估速度。
     #------------------------------------------------------------------#
     eval_flag           = True
-    eval_period         = 10
-
+    eval_period         = 20
     #------------------------------------------------------------------#
     #   VOCdevkit_path  数据集路径
     #------------------------------------------------------------------#
@@ -229,7 +229,7 @@ if __name__ == "__main__":
     #------------------------------------------------------------------#
     #   是否使用focal loss来防止正负样本不平衡
     #------------------------------------------------------------------#
-    focal_loss      = False
+    focal_loss      = True
     #------------------------------------------------------------------#
     #   是否给不同种类赋予不同的损失权值，默认是平衡的。
     #   设置的话，注意设置成numpy形式的，长度和num_classes一样。
@@ -237,14 +237,15 @@ if __name__ == "__main__":
     #   num_classes = 3
     #   cls_weights = np.array([1, 2, 3], np.float32)
     #------------------------------------------------------------------#
-    cls_weights     = np.ones([num_classes], np.float32)
+    # cls_weights     = np.ones([num_classes], np.float32)
+    cls_weights     = np.array([1, 1], np.float32)
     #------------------------------------------------------------------#
     #   num_workers     用于设置是否使用多线程读取数据，1代表关闭多线程
     #                   开启后会加快数据读取速度，但是会占用更多内存
     #                   keras里开启多线程有些时候速度反而慢了许多
     #                   在IO为瓶颈的时候再开启多线程，即GPU运算速度远大于读取图片的速度。
     #------------------------------------------------------------------#
-    num_workers         = 4
+    num_workers         = 1
 
     #------------------------------------------------------#
     #   设置用到的显卡
@@ -376,13 +377,13 @@ if __name__ == "__main__":
         #----------------------------------------------------------#
         wanted_step = 1.5e4 if optimizer_type == "sgd" else 0.5e4
         total_step  = num_train // Unfreeze_batch_size * UnFreeze_Epoch
-        if total_step <= wanted_step:
-            if num_train // Unfreeze_batch_size == 0:
-                raise ValueError('数据集过小，无法进行训练，请扩充数据集。')
-            wanted_epoch = wanted_step // (num_train // Unfreeze_batch_size) + 1
-            print("\n\033[1;33;44m[Warning] 使用%s优化器时，建议将训练总步长设置到%d以上。\033[0m"%(optimizer_type, wanted_step))
-            print("\033[1;33;44m[Warning] 本次运行的总训练数据量为%d，Unfreeze_batch_size为%d，共训练%d个Epoch，计算出总训练步长为%d。\033[0m"%(num_train, Unfreeze_batch_size, UnFreeze_Epoch, total_step))
-            print("\033[1;33;44m[Warning] 由于总训练步长为%d，小于建议总步长%d，建议设置总世代为%d。\033[0m"%(total_step, wanted_step, wanted_epoch))
+        # if total_step <= wanted_step:
+        #     if num_train // Unfreeze_batch_size == 0:
+        #         raise ValueError('数据集过小，无法进行训练，请扩充数据集。')
+        #     wanted_epoch = wanted_step // (num_train // Unfreeze_batch_size) + 1
+        #     print("\n\033[1;33;44m[Warning] 使用%s优化器时，建议将训练总步长设置到%d以上。\033[0m"%(optimizer_type, wanted_step))
+        #     print("\033[1;33;44m[Warning] 本次运行的总训练数据量为%d，Unfreeze_batch_size为%d，共训练%d个Epoch，计算出总训练步长为%d。\033[0m"%(num_train, Unfreeze_batch_size, UnFreeze_Epoch, total_step))
+        #     print("\033[1;33;44m[Warning] 由于总训练步长为%d，小于建议总步长%d，建议设置总世代为%d。\033[0m"%(total_step, wanted_step, wanted_epoch))
         
     #------------------------------------------------------#
     #   主干特征提取网络特征通用，冻结训练可以加快训练速度
@@ -470,7 +471,7 @@ if __name__ == "__main__":
             val_lines.append(item['img'])
         
         if local_rank == 0:
-            eval_callback   = EvalCallback(model, input_shape, num_classes, val_lines, './data/visual/mask', log_dir, Cuda, \
+            eval_callback   = EvalCallback(net=model, input_shape=input_shape, num_classes=num_classes, image_ids=val_lines, dataset_path='./data/visual/mask', log_dir=log_dir, cuda=Cuda, \
                                             eval_flag=eval_flag, period=eval_period)
         else:
             eval_callback   = None

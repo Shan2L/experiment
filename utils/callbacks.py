@@ -17,7 +17,7 @@ from PIL import Image
 from tqdm import tqdm
 from torch.utils.tensorboard import SummaryWriter
 from .utils import cvtColor, preprocess_input, resize_image
-from .utils_metrics import compute_mIoU
+from .utils_metrics import compute_mIoU, compute_auc
 
 
 class LossHistory():
@@ -96,7 +96,7 @@ class EvalCallback():
         self.eval_flag          = eval_flag
         self.period             = period
         
-        self.image_ids          = [image_id.split('/')[-1] for image_id in image_ids]
+        # self.image_ids          = [image_id.split('/')[-1] for image_id in image_ids]
         self.mious      = [0]
         self.epoches    = [0]
         if self.eval_flag:
@@ -152,7 +152,7 @@ class EvalCallback():
         return np.uint8(pr)*255
 
     
-    def on_epoch_end(self, epoch, model_eval):
+    def on_epoch_end(self, epoch, model_eval, gen_val):
         if epoch % self.period == 0 and self.eval_flag:
             self.net    = model_eval
             gt_dir      = self.mask_path
@@ -176,6 +176,23 @@ class EvalCallback():
                         
             print("Calculate miou.")
             _, IoUs, _, _ = compute_mIoU(gt_dir, pred_dir, self.image_ids, self.num_classes, None)  # 执行计算mIoU的函数
+            
+            # print("Calcalate auc.")
+            # mask_name_list = [x.replace('image', 'mask') for x in self.image_ids]
+            # auc_data = []
+            # for item in gen_val:
+            #     auc_pred = self.net(item[0])
+            #     auc_mask = item[1].view(-1, 1, 128, 128)
+            #     auc = compute_auc(auc_pred, auc_mask)
+            #     auc_data.append(auc)
+            # auc_val = np.mean(np.array(auc_data))
+            
+
+            # print('---------------------------------------------------------------------')
+            # print('auc  =  {}'.format(auc_val))
+            # print('---------------------------------------------------------------------')
+            
+            
             temp_miou = np.nanmean(IoUs) * 100
 
             self.mious.append(temp_miou)

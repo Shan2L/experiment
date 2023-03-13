@@ -6,17 +6,18 @@ from nets.deeplabv3_training import (CE_Loss, Dice_loss, Focal_Loss,
 from tqdm import tqdm
 
 from utils.utils import get_lr
-from utils.utils_metrics import f_score
+from utils.utils_metrics import f_score, compute_auc
 
 
 def fit_one_epoch(model_train, model, loss_history, eval_callback, optimizer, epoch, epoch_step, epoch_step_val, gen, gen_val, Epoch, cuda, dice_loss, focal_loss, cls_weights, num_classes, \
     fp16, scaler, save_period, save_dir, local_rank=0):
     total_loss      = 0
     total_f_score   = 0
+    total_auc       = 0
 
     val_loss        = 0
     val_f_score     = 0
-
+    val_auc         = 0
     if local_rank == 0:
         print('Start Train')
         pbar = tqdm(total=epoch_step,desc=f'Epoch {epoch + 1}/{Epoch}',postfix=dict,mininterval=0.3)
@@ -59,7 +60,7 @@ def fit_one_epoch(model_train, model, loss_history, eval_callback, optimizer, ep
                 #-------------------------------#
                 #   计算f_score
                 #-------------------------------#
-                _f_score = f_score(outputs, labels)
+                _f_score, _auc = f_score(outputs, labels)
 
             #----------------------#
             #   反向传播
@@ -100,10 +101,12 @@ def fit_one_epoch(model_train, model, loss_history, eval_callback, optimizer, ep
 
         total_loss      += loss.item()
         total_f_score   += _f_score.item()
+        total_auc       += _auc
             
         if local_rank == 0:
             pbar.set_postfix(**{'total_loss': total_loss / (iteration + 1), 
                                 'f_score'   : total_f_score / (iteration + 1),
+                                'auc'       : total_auc / (iteration+1),
                                 'lr'        : get_lr(optimizer)})
             pbar.update(1)
 
@@ -144,14 +147,15 @@ def fit_one_epoch(model_train, model, loss_history, eval_callback, optimizer, ep
             #-------------------------------#
             #   计算f_score
             #-------------------------------#
-            _f_score    = f_score(outputs, labels)
-
+            _f_score, _auc    = f_score(outputs, labels)
             val_loss    += loss.item()
             val_f_score += _f_score.item()
+            val_auc += _auc
             
             if local_rank == 0:
                 pbar.set_postfix(**{'val_loss'  : val_loss / (iteration + 1),
                                     'f_score'   : val_f_score / (iteration + 1),
+                                    'auc'       : val_auc / (iteration + 1 ),
                                     'lr'        : get_lr(optimizer)})
                 pbar.update(1)
             
@@ -159,7 +163,7 @@ def fit_one_epoch(model_train, model, loss_history, eval_callback, optimizer, ep
         pbar.close()
         print('Finish Validation')
         loss_history.append_loss(epoch + 1, total_loss / epoch_step, val_loss / epoch_step_val)
-        eval_callback.on_epoch_end(epoch + 1, model_train)
+        eval_callback.on_epoch_end(epoch + 1, model_train, gen_val)
         print('Epoch:'+ str(epoch + 1) + '/' + str(Epoch))
         print('Total Loss: %.3f || Val Loss: %.3f ' % (total_loss / epoch_step, val_loss / epoch_step_val))
         

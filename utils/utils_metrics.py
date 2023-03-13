@@ -7,6 +7,28 @@ import numpy as np
 import torch
 import torch.nn.functional as F
 from PIL import Image
+from sklearn import metrics
+
+def compute_auc(inputs, target):
+    n, c, h, w = inputs.size()
+    nt, ct, ht, wt = target.size()
+    
+    temp_inputs = inputs.transpose(1, 2).transpose(2, 3).contiguous()
+    print(temp_inputs.shape)
+    temp_inputs = temp_inputs.view(n, -1, c)[:, :, 1]
+    print(temp_inputs.shape)
+    temp_inputs = torch.softmax(temp_inputs, -1)
+    print(temp_inputs.shape)
+    temp_inputs = torch.squeeze(temp_inputs)
+    print(temp_inputs.shape)
+    
+    temp_target = target.transpose(1, 2).transpose(2, 3).contiguous().view(nt, -1, 1)
+    print(temp_target.shape)
+    temp_target = torch.squeeze(temp_target)
+    print(temp_target.shape)
+
+    return metrics.roc_auc_score(temp_target.detach().numpy(), temp_inputs.detach().numpy())
+
 
 
 def f_score(inputs, target, beta=1, smooth = 1e-5, threhold = 0.5):
@@ -17,23 +39,30 @@ def f_score(inputs, target, beta=1, smooth = 1e-5, threhold = 0.5):
         inputs = F.interpolate(inputs, size=(ht, wt), mode="bilinear", align_corners=True)
         
     temp_inputs = torch.softmax(inputs.transpose(1, 2).transpose(2, 3).contiguous().view(n, -1, c),-1)
-    # print(temp_inputs.shape)
-    temp_target = target.view(n, -1, ct)
-    # print(temp_target.shape)
+    temp_target = target.transpose(1, 2).transpose(2, 3).contiguous().view(n, -1, ct)
+    f1_input = temp_inputs.argmax(axis=-1).detach().numpy().ravel()
+    f1_target = temp_target.argmax(axis=-1).detach().numpy().ravel()
+    auc_input = temp_inputs.detach().numpy().ravel()
+    auc_target = temp_target.detach().numpy().ravel()
 
+    # auc = metrics.roc_auc_score(auc_target, auc_input)
+    auc = 0 
+    score = metrics.f1_score(f1_target, f1_input, average='macro')
+    # print(auc)
     #--------------------------------------------#
     #   计算dice系数
     #--------------------------------------------#
-    temp_inputs = torch.gt(temp_inputs, threhold).float()
-    # print(temp_inputs.shape)
+    # temp_inputs = torch.gt(temp_inputs, threhold).float()
+    # # print(temp_inputs.shape)
 
-    tp = torch.sum(temp_target[...,:-1] * temp_inputs, axis=[0,1])
-    fp = torch.sum(temp_inputs                       , axis=[0,1]) - tp
-    fn = torch.sum(temp_target[...,:-1]              , axis=[0,1]) - tp
+    # tp = torch.sum(temp_target[...,:-1] * temp_inputs, axis=[0,1])
+    # fp = torch.sum(temp_inputs                       , axis=[0,1]) - tp
+    # fn = torch.sum(temp_target[...,:-1]              , axis=[0,1]) - tp
 
-    score = ((1 + beta ** 2) * tp + smooth) / ((1 + beta ** 2) * tp + beta ** 2 * fn + fp + smooth)
-    score = torch.mean(score)
-    return score
+    # score = ((1 + beta ** 2) * tp + smooth) / ((1 + beta ** 2) * tp + beta ** 2 * fn + fp + smooth)
+    # score = torch.mean(score)
+    
+    return score, auc
 
 # 设标签宽W，长H
 def fast_hist(a, b, n):
@@ -79,7 +108,7 @@ def compute_mIoU(gt_dir, pred_dir, png_name_list, num_classes, name_classes=None
     #------------------------------------------------#
     #   读取每一个（图片-标签）对
     #------------------------------------------------#
-    for ind in range(len(gt_imgs)): 
+    for ind in range(len(pred_imgs)): 
         #------------------------------------------------#
         #   读取一张图像分割结果，转化成numpy数组
         #------------------------------------------------#
@@ -187,4 +216,14 @@ def show_results(miou_out_path, hist, IoUs, PA_Recall, Precision, name_classes, 
             writer_list.append([name_classes[i]] + [str(x) for x in hist[i]])
         writer.writerows(writer_list)
     print("Save confusion_matrix out to " + os.path.join(miou_out_path, "confusion_matrix.csv"))
-            
+
+
+if __name__ == '__main__':
+    a = np.ones((128, 1, 128, 128))
+    a[0][0][0]=0
+    b = np.ones((128, 2, 128, 128))
+    a = torch.from_numpy(a)
+    b = torch.from_numpy(b)
+    auc  = compute_auc(b, a)
+    
+    print(auc)
