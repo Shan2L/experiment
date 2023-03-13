@@ -8,6 +8,7 @@ import os, glob
 import json
 import scipy.misc
 import h5py
+import random
 
 
 class LandslideDataset(Dataset):
@@ -19,13 +20,18 @@ class LandslideDataset(Dataset):
         self.mask_dir = './dataset/visual/mask'
         self.train_split = './dataset/split/train.json'
         self.test_split = './dataset/split/test.json'
+        self.pred_dir = ''
         if self.train:
             with open(self.train_split, 'r') as f:
                 data_dic = json.load(f)
                 if self.labeled == 'labeled':
                     self.data_list = data_dic['labeled']
+                    random.shuffle(self.data_list)
+                    self.data_list = self.data_list[:100]
+                    
                 elif self.labeled == 'unlabeled':
                     self.data_list = data_dic['unlabeled']
+                    
                 else:
                     raise ValueError('[Error] Wrong parameter!')
         else:
@@ -53,8 +59,12 @@ class LandslideDataset(Dataset):
             seg_labels = self.transform(seg_labels).float()  
         label = torch.from_numpy(np.array(int(label))).float()
         mask = torch.from_numpy(mask).float()
-
-        return image, mask, seg_labels, label
+        if self.labeled == 'labeled':
+            return image, mask, seg_labels, label
+        elif self.labeled == 'unlabeled':
+            return image, mask, seg_labels, label, image_file
+        else:
+            raise ValueError('[Error]Wrong Paramaters')
 
 def deeplab_dataset_collate(batch):
     images = []
