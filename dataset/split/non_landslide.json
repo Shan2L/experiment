@@ -1,0 +1,20386 @@
+[
+
+{
+
+
+"img": "image_10.png",
+
+
+"mask": "mask_10.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_1019.png",
+
+
+"mask": "mask_1019.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_1021.png",
+
+
+"mask": "mask_1021.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_1023.png",
+
+
+"mask": "mask_1023.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_1024.png",
+
+
+"mask": "mask_1024.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_1025.png",
+
+
+"mask": "mask_1025.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_1030.png",
+
+
+"mask": "mask_1030.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_1040.png",
+
+
+"mask": "mask_1040.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_1041.png",
+
+
+"mask": "mask_1041.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_1042.png",
+
+
+"mask": "mask_1042.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_1057.png",
+
+
+"mask": "mask_1057.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_1058.png",
+
+
+"mask": "mask_1058.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_1066.png",
+
+
+"mask": "mask_1066.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_107.png",
+
+
+"mask": "mask_107.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_1078.png",
+
+
+"mask": "mask_1078.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_1083.png",
+
+
+"mask": "mask_1083.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_109.png",
+
+
+"mask": "mask_109.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_1093.png",
+
+
+"mask": "mask_1093.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_1097.png",
+
+
+"mask": "mask_1097.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_1098.png",
+
+
+"mask": "mask_1098.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_1099.png",
+
+
+"mask": "mask_1099.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_11.png",
+
+
+"mask": "mask_11.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_110.png",
+
+
+"mask": "mask_110.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_1100.png",
+
+
+"mask": "mask_1100.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_1101.png",
+
+
+"mask": "mask_1101.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_1103.png",
+
+
+"mask": "mask_1103.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_1104.png",
+
+
+"mask": "mask_1104.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_1106.png",
+
+
+"mask": "mask_1106.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_1107.png",
+
+
+"mask": "mask_1107.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_1109.png",
+
+
+"mask": "mask_1109.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_1118.png",
+
+
+"mask": "mask_1118.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_1134.png",
+
+
+"mask": "mask_1134.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_1135.png",
+
+
+"mask": "mask_1135.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_1138.png",
+
+
+"mask": "mask_1138.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_1139.png",
+
+
+"mask": "mask_1139.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_1144.png",
+
+
+"mask": "mask_1144.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_1145.png",
+
+
+"mask": "mask_1145.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_1146.png",
+
+
+"mask": "mask_1146.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_1147.png",
+
+
+"mask": "mask_1147.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_1148.png",
+
+
+"mask": "mask_1148.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_1149.png",
+
+
+"mask": "mask_1149.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_115.png",
+
+
+"mask": "mask_115.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_1150.png",
+
+
+"mask": "mask_1150.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_1151.png",
+
+
+"mask": "mask_1151.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_1159.png",
+
+
+"mask": "mask_1159.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_1176.png",
+
+
+"mask": "mask_1176.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_1177.png",
+
+
+"mask": "mask_1177.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_1181.png",
+
+
+"mask": "mask_1181.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_1184.png",
+
+
+"mask": "mask_1184.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_1186.png",
+
+
+"mask": "mask_1186.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_1187.png",
+
+
+"mask": "mask_1187.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_1188.png",
+
+
+"mask": "mask_1188.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_1189.png",
+
+
+"mask": "mask_1189.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_1190.png",
+
+
+"mask": "mask_1190.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_1191.png",
+
+
+"mask": "mask_1191.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_12.png",
+
+
+"mask": "mask_12.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_1202.png",
+
+
+"mask": "mask_1202.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_1203.png",
+
+
+"mask": "mask_1203.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_1204.png",
+
+
+"mask": "mask_1204.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_1221.png",
+
+
+"mask": "mask_1221.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_1222.png",
+
+
+"mask": "mask_1222.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_1223.png",
+
+
+"mask": "mask_1223.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_1224.png",
+
+
+"mask": "mask_1224.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_1225.png",
+
+
+"mask": "mask_1225.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_1226.png",
+
+
+"mask": "mask_1226.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_1228.png",
+
+
+"mask": "mask_1228.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_1229.png",
+
+
+"mask": "mask_1229.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_123.png",
+
+
+"mask": "mask_123.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_1230.png",
+
+
+"mask": "mask_1230.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_1234.png",
+
+
+"mask": "mask_1234.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_1235.png",
+
+
+"mask": "mask_1235.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_1243.png",
+
+
+"mask": "mask_1243.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_1244.png",
+
+
+"mask": "mask_1244.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_1245.png",
+
+
+"mask": "mask_1245.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_1248.png",
+
+
+"mask": "mask_1248.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_125.png",
+
+
+"mask": "mask_125.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_126.png",
+
+
+"mask": "mask_126.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_1261.png",
+
+
+"mask": "mask_1261.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_1265.png",
+
+
+"mask": "mask_1265.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_1266.png",
+
+
+"mask": "mask_1266.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_1269.png",
+
+
+"mask": "mask_1269.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_1271.png",
+
+
+"mask": "mask_1271.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_1272.png",
+
+
+"mask": "mask_1272.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_1276.png",
+
+
+"mask": "mask_1276.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_1286.png",
+
+
+"mask": "mask_1286.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_1287.png",
+
+
+"mask": "mask_1287.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_129.png",
+
+
+"mask": "mask_129.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_13.png",
+
+
+"mask": "mask_13.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_130.png",
+
+
+"mask": "mask_130.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_1300.png",
+
+
+"mask": "mask_1300.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_1301.png",
+
+
+"mask": "mask_1301.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_1305.png",
+
+
+"mask": "mask_1305.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_1306.png",
+
+
+"mask": "mask_1306.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_1307.png",
+
+
+"mask": "mask_1307.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_1308.png",
+
+
+"mask": "mask_1308.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_131.png",
+
+
+"mask": "mask_131.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_1310.png",
+
+
+"mask": "mask_1310.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_1311.png",
+
+
+"mask": "mask_1311.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_1312.png",
+
+
+"mask": "mask_1312.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_1313.png",
+
+
+"mask": "mask_1313.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_133.png",
+
+
+"mask": "mask_133.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_1339.png",
+
+
+"mask": "mask_1339.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_1341.png",
+
+
+"mask": "mask_1341.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_1345.png",
+
+
+"mask": "mask_1345.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_1346.png",
+
+
+"mask": "mask_1346.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_1347.png",
+
+
+"mask": "mask_1347.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_1348.png",
+
+
+"mask": "mask_1348.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_1349.png",
+
+
+"mask": "mask_1349.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_1353.png",
+
+
+"mask": "mask_1353.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_1354.png",
+
+
+"mask": "mask_1354.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_1355.png",
+
+
+"mask": "mask_1355.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_1356.png",
+
+
+"mask": "mask_1356.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_1361.png",
+
+
+"mask": "mask_1361.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_1362.png",
+
+
+"mask": "mask_1362.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_1379.png",
+
+
+"mask": "mask_1379.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_138.png",
+
+
+"mask": "mask_138.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_1380.png",
+
+
+"mask": "mask_1380.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_1383.png",
+
+
+"mask": "mask_1383.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_1386.png",
+
+
+"mask": "mask_1386.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_1387.png",
+
+
+"mask": "mask_1387.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_1388.png",
+
+
+"mask": "mask_1388.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_1389.png",
+
+
+"mask": "mask_1389.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_1390.png",
+
+
+"mask": "mask_1390.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_1391.png",
+
+
+"mask": "mask_1391.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_1394.png",
+
+
+"mask": "mask_1394.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_14.png",
+
+
+"mask": "mask_14.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_1401.png",
+
+
+"mask": "mask_1401.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_1403.png",
+
+
+"mask": "mask_1403.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_1418.png",
+
+
+"mask": "mask_1418.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_1420.png",
+
+
+"mask": "mask_1420.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_1421.png",
+
+
+"mask": "mask_1421.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_1424.png",
+
+
+"mask": "mask_1424.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_1427.png",
+
+
+"mask": "mask_1427.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_1428.png",
+
+
+"mask": "mask_1428.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_1429.png",
+
+
+"mask": "mask_1429.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_1431.png",
+
+
+"mask": "mask_1431.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_1432.png",
+
+
+"mask": "mask_1432.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_1433.png",
+
+
+"mask": "mask_1433.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_1434.png",
+
+
+"mask": "mask_1434.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_1435.png",
+
+
+"mask": "mask_1435.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_1439.png",
+
+
+"mask": "mask_1439.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_1471.png",
+
+
+"mask": "mask_1471.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_1472.png",
+
+
+"mask": "mask_1472.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_1473.png",
+
+
+"mask": "mask_1473.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_1474.png",
+
+
+"mask": "mask_1474.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_1475.png",
+
+
+"mask": "mask_1475.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_1476.png",
+
+
+"mask": "mask_1476.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_1477.png",
+
+
+"mask": "mask_1477.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_1479.png",
+
+
+"mask": "mask_1479.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_15.png",
+
+
+"mask": "mask_15.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_1502.png",
+
+
+"mask": "mask_1502.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_1503.png",
+
+
+"mask": "mask_1503.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_1512.png",
+
+
+"mask": "mask_1512.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_1515.png",
+
+
+"mask": "mask_1515.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_1516.png",
+
+
+"mask": "mask_1516.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_1517.png",
+
+
+"mask": "mask_1517.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_1518.png",
+
+
+"mask": "mask_1518.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_1519.png",
+
+
+"mask": "mask_1519.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_1545.png",
+
+
+"mask": "mask_1545.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_1546.png",
+
+
+"mask": "mask_1546.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_1551.png",
+
+
+"mask": "mask_1551.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_1553.png",
+
+
+"mask": "mask_1553.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_1554.png",
+
+
+"mask": "mask_1554.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_1555.png",
+
+
+"mask": "mask_1555.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_1556.png",
+
+
+"mask": "mask_1556.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_1557.png",
+
+
+"mask": "mask_1557.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_1558.png",
+
+
+"mask": "mask_1558.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_1559.png",
+
+
+"mask": "mask_1559.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_156.png",
+
+
+"mask": "mask_156.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_1560.png",
+
+
+"mask": "mask_1560.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_1563.png",
+
+
+"mask": "mask_1563.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_1585.png",
+
+
+"mask": "mask_1585.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_159.png",
+
+
+"mask": "mask_159.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_1593.png",
+
+
+"mask": "mask_1593.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_1594.png",
+
+
+"mask": "mask_1594.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_1595.png",
+
+
+"mask": "mask_1595.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_1596.png",
+
+
+"mask": "mask_1596.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_1597.png",
+
+
+"mask": "mask_1597.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_1598.png",
+
+
+"mask": "mask_1598.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_1599.png",
+
+
+"mask": "mask_1599.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_1600.png",
+
+
+"mask": "mask_1600.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_1601.png",
+
+
+"mask": "mask_1601.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_1602.png",
+
+
+"mask": "mask_1602.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_1604.png",
+
+
+"mask": "mask_1604.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_1626.png",
+
+
+"mask": "mask_1626.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_1636.png",
+
+
+"mask": "mask_1636.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_1638.png",
+
+
+"mask": "mask_1638.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_1639.png",
+
+
+"mask": "mask_1639.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_1640.png",
+
+
+"mask": "mask_1640.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_1642.png",
+
+
+"mask": "mask_1642.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_1643.png",
+
+
+"mask": "mask_1643.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_1645.png",
+
+
+"mask": "mask_1645.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_1666.png",
+
+
+"mask": "mask_1666.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_1667.png",
+
+
+"mask": "mask_1667.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_1668.png",
+
+
+"mask": "mask_1668.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_1669.png",
+
+
+"mask": "mask_1669.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_167.png",
+
+
+"mask": "mask_167.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_1670.png",
+
+
+"mask": "mask_1670.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_1677.png",
+
+
+"mask": "mask_1677.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_1678.png",
+
+
+"mask": "mask_1678.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_1679.png",
+
+
+"mask": "mask_1679.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_1680.png",
+
+
+"mask": "mask_1680.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_1681.png",
+
+
+"mask": "mask_1681.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_1682.png",
+
+
+"mask": "mask_1682.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_1707.png",
+
+
+"mask": "mask_1707.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_1708.png",
+
+
+"mask": "mask_1708.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_1709.png",
+
+
+"mask": "mask_1709.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_171.png",
+
+
+"mask": "mask_171.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_1711.png",
+
+
+"mask": "mask_1711.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_1713.png",
+
+
+"mask": "mask_1713.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_1715.png",
+
+
+"mask": "mask_1715.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_1716.png",
+
+
+"mask": "mask_1716.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_1718.png",
+
+
+"mask": "mask_1718.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_172.png",
+
+
+"mask": "mask_172.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_1720.png",
+
+
+"mask": "mask_1720.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_1721.png",
+
+
+"mask": "mask_1721.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_1722.png",
+
+
+"mask": "mask_1722.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_1723.png",
+
+
+"mask": "mask_1723.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_1727.png",
+
+
+"mask": "mask_1727.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_174.png",
+
+
+"mask": "mask_174.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_1748.png",
+
+
+"mask": "mask_1748.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_1749.png",
+
+
+"mask": "mask_1749.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_1750.png",
+
+
+"mask": "mask_1750.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_1754.png",
+
+
+"mask": "mask_1754.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_1757.png",
+
+
+"mask": "mask_1757.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_1758.png",
+
+
+"mask": "mask_1758.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_1760.png",
+
+
+"mask": "mask_1760.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_1761.png",
+
+
+"mask": "mask_1761.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_1762.png",
+
+
+"mask": "mask_1762.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_1763.png",
+
+
+"mask": "mask_1763.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_1764.png",
+
+
+"mask": "mask_1764.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_1765.png",
+
+
+"mask": "mask_1765.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_1766.png",
+
+
+"mask": "mask_1766.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_1767.png",
+
+
+"mask": "mask_1767.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_1789.png",
+
+
+"mask": "mask_1789.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_1790.png",
+
+
+"mask": "mask_1790.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_1791.png",
+
+
+"mask": "mask_1791.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_1796.png",
+
+
+"mask": "mask_1796.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_1798.png",
+
+
+"mask": "mask_1798.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_18.png",
+
+
+"mask": "mask_18.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_1800.png",
+
+
+"mask": "mask_1800.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_1801.png",
+
+
+"mask": "mask_1801.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_1802.png",
+
+
+"mask": "mask_1802.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_1803.png",
+
+
+"mask": "mask_1803.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_1804.png",
+
+
+"mask": "mask_1804.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_1805.png",
+
+
+"mask": "mask_1805.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_1806.png",
+
+
+"mask": "mask_1806.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_1808.png",
+
+
+"mask": "mask_1808.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_1815.png",
+
+
+"mask": "mask_1815.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_1830.png",
+
+
+"mask": "mask_1830.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_1835.png",
+
+
+"mask": "mask_1835.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_1837.png",
+
+
+"mask": "mask_1837.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_1840.png",
+
+
+"mask": "mask_1840.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_1841.png",
+
+
+"mask": "mask_1841.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_1842.png",
+
+
+"mask": "mask_1842.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_1843.png",
+
+
+"mask": "mask_1843.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_1844.png",
+
+
+"mask": "mask_1844.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_1845.png",
+
+
+"mask": "mask_1845.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_1846.png",
+
+
+"mask": "mask_1846.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_1847.png",
+
+
+"mask": "mask_1847.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_1848.png",
+
+
+"mask": "mask_1848.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_1849.png",
+
+
+"mask": "mask_1849.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_1852.png",
+
+
+"mask": "mask_1852.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_1870.png",
+
+
+"mask": "mask_1870.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_1871.png",
+
+
+"mask": "mask_1871.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_1873.png",
+
+
+"mask": "mask_1873.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_1877.png",
+
+
+"mask": "mask_1877.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_1878.png",
+
+
+"mask": "mask_1878.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_1882.png",
+
+
+"mask": "mask_1882.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_1883.png",
+
+
+"mask": "mask_1883.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_1884.png",
+
+
+"mask": "mask_1884.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_1885.png",
+
+
+"mask": "mask_1885.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_1886.png",
+
+
+"mask": "mask_1886.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_1887.png",
+
+
+"mask": "mask_1887.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_1888.png",
+
+
+"mask": "mask_1888.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_1890.png",
+
+
+"mask": "mask_1890.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_19.png",
+
+
+"mask": "mask_19.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_1911.png",
+
+
+"mask": "mask_1911.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_1921.png",
+
+
+"mask": "mask_1921.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_1922.png",
+
+
+"mask": "mask_1922.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_1923.png",
+
+
+"mask": "mask_1923.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_1924.png",
+
+
+"mask": "mask_1924.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_1925.png",
+
+
+"mask": "mask_1925.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_1926.png",
+
+
+"mask": "mask_1926.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_1927.png",
+
+
+"mask": "mask_1927.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_1928.png",
+
+
+"mask": "mask_1928.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_1929.png",
+
+
+"mask": "mask_1929.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_1931.png",
+
+
+"mask": "mask_1931.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_1932.png",
+
+
+"mask": "mask_1932.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_1935.png",
+
+
+"mask": "mask_1935.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_1937.png",
+
+
+"mask": "mask_1937.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_1959.png",
+
+
+"mask": "mask_1959.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_1961.png",
+
+
+"mask": "mask_1961.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_1962.png",
+
+
+"mask": "mask_1962.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_1963.png",
+
+
+"mask": "mask_1963.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_1964.png",
+
+
+"mask": "mask_1964.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_1965.png",
+
+
+"mask": "mask_1965.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_1966.png",
+
+
+"mask": "mask_1966.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_1967.png",
+
+
+"mask": "mask_1967.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_1968.png",
+
+
+"mask": "mask_1968.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_1969.png",
+
+
+"mask": "mask_1969.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_1970.png",
+
+
+"mask": "mask_1970.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_1971.png",
+
+
+"mask": "mask_1971.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_1973.png",
+
+
+"mask": "mask_1973.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_20.png",
+
+
+"mask": "mask_20.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_200.png",
+
+
+"mask": "mask_200.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2002.png",
+
+
+"mask": "mask_2002.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2003.png",
+
+
+"mask": "mask_2003.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2004.png",
+
+
+"mask": "mask_2004.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2005.png",
+
+
+"mask": "mask_2005.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2006.png",
+
+
+"mask": "mask_2006.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2007.png",
+
+
+"mask": "mask_2007.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2008.png",
+
+
+"mask": "mask_2008.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2009.png",
+
+
+"mask": "mask_2009.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2010.png",
+
+
+"mask": "mask_2010.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2011.png",
+
+
+"mask": "mask_2011.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2012.png",
+
+
+"mask": "mask_2012.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2013.png",
+
+
+"mask": "mask_2013.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2014.png",
+
+
+"mask": "mask_2014.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2038.png",
+
+
+"mask": "mask_2038.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2040.png",
+
+
+"mask": "mask_2040.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2041.png",
+
+
+"mask": "mask_2041.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2042.png",
+
+
+"mask": "mask_2042.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2043.png",
+
+
+"mask": "mask_2043.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2044.png",
+
+
+"mask": "mask_2044.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2045.png",
+
+
+"mask": "mask_2045.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2046.png",
+
+
+"mask": "mask_2046.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2047.png",
+
+
+"mask": "mask_2047.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2048.png",
+
+
+"mask": "mask_2048.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2049.png",
+
+
+"mask": "mask_2049.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2050.png",
+
+
+"mask": "mask_2050.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2051.png",
+
+
+"mask": "mask_2051.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2052.png",
+
+
+"mask": "mask_2052.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2053.png",
+
+
+"mask": "mask_2053.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2054.png",
+
+
+"mask": "mask_2054.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_206.png",
+
+
+"mask": "mask_206.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_207.png",
+
+
+"mask": "mask_207.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2076.png",
+
+
+"mask": "mask_2076.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2077.png",
+
+
+"mask": "mask_2077.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2078.png",
+
+
+"mask": "mask_2078.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2080.png",
+
+
+"mask": "mask_2080.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2081.png",
+
+
+"mask": "mask_2081.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2082.png",
+
+
+"mask": "mask_2082.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2083.png",
+
+
+"mask": "mask_2083.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2084.png",
+
+
+"mask": "mask_2084.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2085.png",
+
+
+"mask": "mask_2085.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2086.png",
+
+
+"mask": "mask_2086.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2087.png",
+
+
+"mask": "mask_2087.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2088.png",
+
+
+"mask": "mask_2088.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2089.png",
+
+
+"mask": "mask_2089.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2090.png",
+
+
+"mask": "mask_2090.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2091.png",
+
+
+"mask": "mask_2091.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2092.png",
+
+
+"mask": "mask_2092.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2093.png",
+
+
+"mask": "mask_2093.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2094.png",
+
+
+"mask": "mask_2094.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2095.png",
+
+
+"mask": "mask_2095.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2099.png",
+
+
+"mask": "mask_2099.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_21.png",
+
+
+"mask": "mask_21.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_210.png",
+
+
+"mask": "mask_210.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2100.png",
+
+
+"mask": "mask_2100.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2113.png",
+
+
+"mask": "mask_2113.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2116.png",
+
+
+"mask": "mask_2116.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2117.png",
+
+
+"mask": "mask_2117.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_212.png",
+
+
+"mask": "mask_212.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2122.png",
+
+
+"mask": "mask_2122.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2126.png",
+
+
+"mask": "mask_2126.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2127.png",
+
+
+"mask": "mask_2127.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2128.png",
+
+
+"mask": "mask_2128.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2129.png",
+
+
+"mask": "mask_2129.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_213.png",
+
+
+"mask": "mask_213.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2130.png",
+
+
+"mask": "mask_2130.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2131.png",
+
+
+"mask": "mask_2131.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2132.png",
+
+
+"mask": "mask_2132.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2133.png",
+
+
+"mask": "mask_2133.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2134.png",
+
+
+"mask": "mask_2134.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_214.png",
+
+
+"mask": "mask_214.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2141.png",
+
+
+"mask": "mask_2141.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2153.png",
+
+
+"mask": "mask_2153.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2154.png",
+
+
+"mask": "mask_2154.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2156.png",
+
+
+"mask": "mask_2156.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2159.png",
+
+
+"mask": "mask_2159.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_216.png",
+
+
+"mask": "mask_216.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2163.png",
+
+
+"mask": "mask_2163.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2165.png",
+
+
+"mask": "mask_2165.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2166.png",
+
+
+"mask": "mask_2166.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2167.png",
+
+
+"mask": "mask_2167.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2168.png",
+
+
+"mask": "mask_2168.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2169.png",
+
+
+"mask": "mask_2169.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2170.png",
+
+
+"mask": "mask_2170.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2171.png",
+
+
+"mask": "mask_2171.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2172.png",
+
+
+"mask": "mask_2172.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2173.png",
+
+
+"mask": "mask_2173.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2174.png",
+
+
+"mask": "mask_2174.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2175.png",
+
+
+"mask": "mask_2175.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_218.png",
+
+
+"mask": "mask_218.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2180.png",
+
+
+"mask": "mask_2180.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2181.png",
+
+
+"mask": "mask_2181.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2194.png",
+
+
+"mask": "mask_2194.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2195.png",
+
+
+"mask": "mask_2195.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2196.png",
+
+
+"mask": "mask_2196.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2197.png",
+
+
+"mask": "mask_2197.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2198.png",
+
+
+"mask": "mask_2198.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_22.png",
+
+
+"mask": "mask_22.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2205.png",
+
+
+"mask": "mask_2205.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2206.png",
+
+
+"mask": "mask_2206.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2208.png",
+
+
+"mask": "mask_2208.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2209.png",
+
+
+"mask": "mask_2209.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2210.png",
+
+
+"mask": "mask_2210.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2211.png",
+
+
+"mask": "mask_2211.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2212.png",
+
+
+"mask": "mask_2212.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2213.png",
+
+
+"mask": "mask_2213.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2214.png",
+
+
+"mask": "mask_2214.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2215.png",
+
+
+"mask": "mask_2215.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2216.png",
+
+
+"mask": "mask_2216.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2217.png",
+
+
+"mask": "mask_2217.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2218.png",
+
+
+"mask": "mask_2218.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2220.png",
+
+
+"mask": "mask_2220.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2235.png",
+
+
+"mask": "mask_2235.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2236.png",
+
+
+"mask": "mask_2236.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2237.png",
+
+
+"mask": "mask_2237.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2239.png",
+
+
+"mask": "mask_2239.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2240.png",
+
+
+"mask": "mask_2240.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2243.png",
+
+
+"mask": "mask_2243.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2245.png",
+
+
+"mask": "mask_2245.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2246.png",
+
+
+"mask": "mask_2246.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2247.png",
+
+
+"mask": "mask_2247.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2248.png",
+
+
+"mask": "mask_2248.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2249.png",
+
+
+"mask": "mask_2249.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2250.png",
+
+
+"mask": "mask_2250.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2251.png",
+
+
+"mask": "mask_2251.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2252.png",
+
+
+"mask": "mask_2252.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2253.png",
+
+
+"mask": "mask_2253.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2254.png",
+
+
+"mask": "mask_2254.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2255.png",
+
+
+"mask": "mask_2255.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2256.png",
+
+
+"mask": "mask_2256.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2257.png",
+
+
+"mask": "mask_2257.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2258.png",
+
+
+"mask": "mask_2258.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2259.png",
+
+
+"mask": "mask_2259.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2260.png",
+
+
+"mask": "mask_2260.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2261.png",
+
+
+"mask": "mask_2261.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2273.png",
+
+
+"mask": "mask_2273.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2277.png",
+
+
+"mask": "mask_2277.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2280.png",
+
+
+"mask": "mask_2280.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2283.png",
+
+
+"mask": "mask_2283.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2286.png",
+
+
+"mask": "mask_2286.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2287.png",
+
+
+"mask": "mask_2287.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2288.png",
+
+
+"mask": "mask_2288.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2289.png",
+
+
+"mask": "mask_2289.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2290.png",
+
+
+"mask": "mask_2290.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2291.png",
+
+
+"mask": "mask_2291.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2292.png",
+
+
+"mask": "mask_2292.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2293.png",
+
+
+"mask": "mask_2293.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2294.png",
+
+
+"mask": "mask_2294.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2295.png",
+
+
+"mask": "mask_2295.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2296.png",
+
+
+"mask": "mask_2296.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2297.png",
+
+
+"mask": "mask_2297.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2298.png",
+
+
+"mask": "mask_2298.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2299.png",
+
+
+"mask": "mask_2299.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2300.png",
+
+
+"mask": "mask_2300.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_231.png",
+
+
+"mask": "mask_231.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2316.png",
+
+
+"mask": "mask_2316.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2317.png",
+
+
+"mask": "mask_2317.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2318.png",
+
+
+"mask": "mask_2318.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2325.png",
+
+
+"mask": "mask_2325.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2326.png",
+
+
+"mask": "mask_2326.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2328.png",
+
+
+"mask": "mask_2328.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2329.png",
+
+
+"mask": "mask_2329.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2330.png",
+
+
+"mask": "mask_2330.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2331.png",
+
+
+"mask": "mask_2331.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2332.png",
+
+
+"mask": "mask_2332.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2333.png",
+
+
+"mask": "mask_2333.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2334.png",
+
+
+"mask": "mask_2334.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2335.png",
+
+
+"mask": "mask_2335.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2336.png",
+
+
+"mask": "mask_2336.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2337.png",
+
+
+"mask": "mask_2337.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2338.png",
+
+
+"mask": "mask_2338.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2339.png",
+
+
+"mask": "mask_2339.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2340.png",
+
+
+"mask": "mask_2340.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2341.png",
+
+
+"mask": "mask_2341.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2358.png",
+
+
+"mask": "mask_2358.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2359.png",
+
+
+"mask": "mask_2359.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_236.png",
+
+
+"mask": "mask_236.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2360.png",
+
+
+"mask": "mask_2360.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2364.png",
+
+
+"mask": "mask_2364.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2365.png",
+
+
+"mask": "mask_2365.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2366.png",
+
+
+"mask": "mask_2366.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2368.png",
+
+
+"mask": "mask_2368.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2369.png",
+
+
+"mask": "mask_2369.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2370.png",
+
+
+"mask": "mask_2370.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2371.png",
+
+
+"mask": "mask_2371.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2372.png",
+
+
+"mask": "mask_2372.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2373.png",
+
+
+"mask": "mask_2373.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2374.png",
+
+
+"mask": "mask_2374.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2375.png",
+
+
+"mask": "mask_2375.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2376.png",
+
+
+"mask": "mask_2376.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2377.png",
+
+
+"mask": "mask_2377.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2378.png",
+
+
+"mask": "mask_2378.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2379.png",
+
+
+"mask": "mask_2379.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2380.png",
+
+
+"mask": "mask_2380.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2381.png",
+
+
+"mask": "mask_2381.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2382.png",
+
+
+"mask": "mask_2382.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2383.png",
+
+
+"mask": "mask_2383.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2384.png",
+
+
+"mask": "mask_2384.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2387.png",
+
+
+"mask": "mask_2387.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2399.png",
+
+
+"mask": "mask_2399.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2407.png",
+
+
+"mask": "mask_2407.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2408.png",
+
+
+"mask": "mask_2408.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2409.png",
+
+
+"mask": "mask_2409.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2410.png",
+
+
+"mask": "mask_2410.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2411.png",
+
+
+"mask": "mask_2411.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2412.png",
+
+
+"mask": "mask_2412.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2413.png",
+
+
+"mask": "mask_2413.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2414.png",
+
+
+"mask": "mask_2414.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2415.png",
+
+
+"mask": "mask_2415.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2416.png",
+
+
+"mask": "mask_2416.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2417.png",
+
+
+"mask": "mask_2417.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2418.png",
+
+
+"mask": "mask_2418.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2419.png",
+
+
+"mask": "mask_2419.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2420.png",
+
+
+"mask": "mask_2420.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2421.png",
+
+
+"mask": "mask_2421.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2422.png",
+
+
+"mask": "mask_2422.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2423.png",
+
+
+"mask": "mask_2423.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2424.png",
+
+
+"mask": "mask_2424.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2425.png",
+
+
+"mask": "mask_2425.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2428.png",
+
+
+"mask": "mask_2428.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2436.png",
+
+
+"mask": "mask_2436.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2440.png",
+
+
+"mask": "mask_2440.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2449.png",
+
+
+"mask": "mask_2449.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2451.png",
+
+
+"mask": "mask_2451.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2452.png",
+
+
+"mask": "mask_2452.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2453.png",
+
+
+"mask": "mask_2453.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2454.png",
+
+
+"mask": "mask_2454.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2455.png",
+
+
+"mask": "mask_2455.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2456.png",
+
+
+"mask": "mask_2456.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2457.png",
+
+
+"mask": "mask_2457.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2458.png",
+
+
+"mask": "mask_2458.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2459.png",
+
+
+"mask": "mask_2459.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_246.png",
+
+
+"mask": "mask_246.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2460.png",
+
+
+"mask": "mask_2460.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2461.png",
+
+
+"mask": "mask_2461.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2462.png",
+
+
+"mask": "mask_2462.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2463.png",
+
+
+"mask": "mask_2463.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2465.png",
+
+
+"mask": "mask_2465.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2466.png",
+
+
+"mask": "mask_2466.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_247.png",
+
+
+"mask": "mask_247.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_248.png",
+
+
+"mask": "mask_248.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2480.png",
+
+
+"mask": "mask_2480.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2481.png",
+
+
+"mask": "mask_2481.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2486.png",
+
+
+"mask": "mask_2486.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2487.png",
+
+
+"mask": "mask_2487.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_249.png",
+
+
+"mask": "mask_249.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2490.png",
+
+
+"mask": "mask_2490.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2491.png",
+
+
+"mask": "mask_2491.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2492.png",
+
+
+"mask": "mask_2492.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2493.png",
+
+
+"mask": "mask_2493.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2494.png",
+
+
+"mask": "mask_2494.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2495.png",
+
+
+"mask": "mask_2495.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2496.png",
+
+
+"mask": "mask_2496.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2497.png",
+
+
+"mask": "mask_2497.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2498.png",
+
+
+"mask": "mask_2498.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2499.png",
+
+
+"mask": "mask_2499.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2500.png",
+
+
+"mask": "mask_2500.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2501.png",
+
+
+"mask": "mask_2501.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2502.png",
+
+
+"mask": "mask_2502.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2503.png",
+
+
+"mask": "mask_2503.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2504.png",
+
+
+"mask": "mask_2504.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2505.png",
+
+
+"mask": "mask_2505.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_251.png",
+
+
+"mask": "mask_251.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2521.png",
+
+
+"mask": "mask_2521.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2522.png",
+
+
+"mask": "mask_2522.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2526.png",
+
+
+"mask": "mask_2526.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2527.png",
+
+
+"mask": "mask_2527.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2528.png",
+
+
+"mask": "mask_2528.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2532.png",
+
+
+"mask": "mask_2532.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2533.png",
+
+
+"mask": "mask_2533.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2534.png",
+
+
+"mask": "mask_2534.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2535.png",
+
+
+"mask": "mask_2535.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2536.png",
+
+
+"mask": "mask_2536.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2537.png",
+
+
+"mask": "mask_2537.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2538.png",
+
+
+"mask": "mask_2538.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2539.png",
+
+
+"mask": "mask_2539.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_254.png",
+
+
+"mask": "mask_254.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2540.png",
+
+
+"mask": "mask_2540.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2541.png",
+
+
+"mask": "mask_2541.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2542.png",
+
+
+"mask": "mask_2542.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2543.png",
+
+
+"mask": "mask_2543.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2544.png",
+
+
+"mask": "mask_2544.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2545.png",
+
+
+"mask": "mask_2545.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2546.png",
+
+
+"mask": "mask_2546.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2547.png",
+
+
+"mask": "mask_2547.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2548.png",
+
+
+"mask": "mask_2548.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_255.png",
+
+
+"mask": "mask_255.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2556.png",
+
+
+"mask": "mask_2556.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_256.png",
+
+
+"mask": "mask_256.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2562.png",
+
+
+"mask": "mask_2562.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2566.png",
+
+
+"mask": "mask_2566.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2567.png",
+
+
+"mask": "mask_2567.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2569.png",
+
+
+"mask": "mask_2569.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_257.png",
+
+
+"mask": "mask_257.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2570.png",
+
+
+"mask": "mask_2570.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2572.png",
+
+
+"mask": "mask_2572.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2573.png",
+
+
+"mask": "mask_2573.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2574.png",
+
+
+"mask": "mask_2574.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2575.png",
+
+
+"mask": "mask_2575.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2576.png",
+
+
+"mask": "mask_2576.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2577.png",
+
+
+"mask": "mask_2577.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2578.png",
+
+
+"mask": "mask_2578.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2579.png",
+
+
+"mask": "mask_2579.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_258.png",
+
+
+"mask": "mask_258.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2580.png",
+
+
+"mask": "mask_2580.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2581.png",
+
+
+"mask": "mask_2581.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2582.png",
+
+
+"mask": "mask_2582.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2583.png",
+
+
+"mask": "mask_2583.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2584.png",
+
+
+"mask": "mask_2584.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2585.png",
+
+
+"mask": "mask_2585.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2586.png",
+
+
+"mask": "mask_2586.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2587.png",
+
+
+"mask": "mask_2587.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2588.png",
+
+
+"mask": "mask_2588.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_260.png",
+
+
+"mask": "mask_260.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2603.png",
+
+
+"mask": "mask_2603.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2610.png",
+
+
+"mask": "mask_2610.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2611.png",
+
+
+"mask": "mask_2611.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2612.png",
+
+
+"mask": "mask_2612.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2613.png",
+
+
+"mask": "mask_2613.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2614.png",
+
+
+"mask": "mask_2614.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2615.png",
+
+
+"mask": "mask_2615.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2616.png",
+
+
+"mask": "mask_2616.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2617.png",
+
+
+"mask": "mask_2617.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2618.png",
+
+
+"mask": "mask_2618.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2619.png",
+
+
+"mask": "mask_2619.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2620.png",
+
+
+"mask": "mask_2620.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2621.png",
+
+
+"mask": "mask_2621.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2622.png",
+
+
+"mask": "mask_2622.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2623.png",
+
+
+"mask": "mask_2623.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2624.png",
+
+
+"mask": "mask_2624.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2625.png",
+
+
+"mask": "mask_2625.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2626.png",
+
+
+"mask": "mask_2626.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2627.png",
+
+
+"mask": "mask_2627.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2628.png",
+
+
+"mask": "mask_2628.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2629.png",
+
+
+"mask": "mask_2629.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2630.png",
+
+
+"mask": "mask_2630.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2633.png",
+
+
+"mask": "mask_2633.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2650.png",
+
+
+"mask": "mask_2650.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2651.png",
+
+
+"mask": "mask_2651.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2652.png",
+
+
+"mask": "mask_2652.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2653.png",
+
+
+"mask": "mask_2653.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2654.png",
+
+
+"mask": "mask_2654.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2655.png",
+
+
+"mask": "mask_2655.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2656.png",
+
+
+"mask": "mask_2656.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2657.png",
+
+
+"mask": "mask_2657.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2658.png",
+
+
+"mask": "mask_2658.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2659.png",
+
+
+"mask": "mask_2659.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2660.png",
+
+
+"mask": "mask_2660.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2661.png",
+
+
+"mask": "mask_2661.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2662.png",
+
+
+"mask": "mask_2662.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2663.png",
+
+
+"mask": "mask_2663.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2664.png",
+
+
+"mask": "mask_2664.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2665.png",
+
+
+"mask": "mask_2665.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2666.png",
+
+
+"mask": "mask_2666.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2667.png",
+
+
+"mask": "mask_2667.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2668.png",
+
+
+"mask": "mask_2668.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2669.png",
+
+
+"mask": "mask_2669.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2670.png",
+
+
+"mask": "mask_2670.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2671.png",
+
+
+"mask": "mask_2671.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2673.png",
+
+
+"mask": "mask_2673.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2674.png",
+
+
+"mask": "mask_2674.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2689.png",
+
+
+"mask": "mask_2689.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2690.png",
+
+
+"mask": "mask_2690.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2691.png",
+
+
+"mask": "mask_2691.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2692.png",
+
+
+"mask": "mask_2692.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2693.png",
+
+
+"mask": "mask_2693.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2694.png",
+
+
+"mask": "mask_2694.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2695.png",
+
+
+"mask": "mask_2695.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2696.png",
+
+
+"mask": "mask_2696.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2697.png",
+
+
+"mask": "mask_2697.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2698.png",
+
+
+"mask": "mask_2698.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2699.png",
+
+
+"mask": "mask_2699.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2700.png",
+
+
+"mask": "mask_2700.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2701.png",
+
+
+"mask": "mask_2701.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2702.png",
+
+
+"mask": "mask_2702.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2703.png",
+
+
+"mask": "mask_2703.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2704.png",
+
+
+"mask": "mask_2704.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2705.png",
+
+
+"mask": "mask_2705.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2706.png",
+
+
+"mask": "mask_2706.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2707.png",
+
+
+"mask": "mask_2707.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2708.png",
+
+
+"mask": "mask_2708.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2709.png",
+
+
+"mask": "mask_2709.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_271.png",
+
+
+"mask": "mask_271.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2710.png",
+
+
+"mask": "mask_2710.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2711.png",
+
+
+"mask": "mask_2711.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2712.png",
+
+
+"mask": "mask_2712.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2713.png",
+
+
+"mask": "mask_2713.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2717.png",
+
+
+"mask": "mask_2717.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2726.png",
+
+
+"mask": "mask_2726.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2727.png",
+
+
+"mask": "mask_2727.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2728.png",
+
+
+"mask": "mask_2728.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2729.png",
+
+
+"mask": "mask_2729.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2730.png",
+
+
+"mask": "mask_2730.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2731.png",
+
+
+"mask": "mask_2731.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2732.png",
+
+
+"mask": "mask_2732.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2733.png",
+
+
+"mask": "mask_2733.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2734.png",
+
+
+"mask": "mask_2734.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2735.png",
+
+
+"mask": "mask_2735.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2736.png",
+
+
+"mask": "mask_2736.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2737.png",
+
+
+"mask": "mask_2737.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2738.png",
+
+
+"mask": "mask_2738.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2739.png",
+
+
+"mask": "mask_2739.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2740.png",
+
+
+"mask": "mask_2740.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2741.png",
+
+
+"mask": "mask_2741.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2742.png",
+
+
+"mask": "mask_2742.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2743.png",
+
+
+"mask": "mask_2743.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2744.png",
+
+
+"mask": "mask_2744.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2745.png",
+
+
+"mask": "mask_2745.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2746.png",
+
+
+"mask": "mask_2746.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2747.png",
+
+
+"mask": "mask_2747.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2748.png",
+
+
+"mask": "mask_2748.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2749.png",
+
+
+"mask": "mask_2749.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2750.png",
+
+
+"mask": "mask_2750.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2751.png",
+
+
+"mask": "mask_2751.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2752.png",
+
+
+"mask": "mask_2752.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2756.png",
+
+
+"mask": "mask_2756.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2757.png",
+
+
+"mask": "mask_2757.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_276.png",
+
+
+"mask": "mask_276.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2762.png",
+
+
+"mask": "mask_2762.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2766.png",
+
+
+"mask": "mask_2766.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2767.png",
+
+
+"mask": "mask_2767.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2770.png",
+
+
+"mask": "mask_2770.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2771.png",
+
+
+"mask": "mask_2771.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2772.png",
+
+
+"mask": "mask_2772.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2773.png",
+
+
+"mask": "mask_2773.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2776.png",
+
+
+"mask": "mask_2776.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2777.png",
+
+
+"mask": "mask_2777.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2778.png",
+
+
+"mask": "mask_2778.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2779.png",
+
+
+"mask": "mask_2779.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2780.png",
+
+
+"mask": "mask_2780.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2781.png",
+
+
+"mask": "mask_2781.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2782.png",
+
+
+"mask": "mask_2782.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2783.png",
+
+
+"mask": "mask_2783.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2784.png",
+
+
+"mask": "mask_2784.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2785.png",
+
+
+"mask": "mask_2785.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2786.png",
+
+
+"mask": "mask_2786.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2787.png",
+
+
+"mask": "mask_2787.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2788.png",
+
+
+"mask": "mask_2788.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2789.png",
+
+
+"mask": "mask_2789.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_279.png",
+
+
+"mask": "mask_279.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2790.png",
+
+
+"mask": "mask_2790.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2791.png",
+
+
+"mask": "mask_2791.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2792.png",
+
+
+"mask": "mask_2792.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2793.png",
+
+
+"mask": "mask_2793.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_280.png",
+
+
+"mask": "mask_280.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_281.png",
+
+
+"mask": "mask_281.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2812.png",
+
+
+"mask": "mask_2812.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2813.png",
+
+
+"mask": "mask_2813.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2814.png",
+
+
+"mask": "mask_2814.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2815.png",
+
+
+"mask": "mask_2815.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2816.png",
+
+
+"mask": "mask_2816.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2817.png",
+
+
+"mask": "mask_2817.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2818.png",
+
+
+"mask": "mask_2818.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2819.png",
+
+
+"mask": "mask_2819.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2820.png",
+
+
+"mask": "mask_2820.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2821.png",
+
+
+"mask": "mask_2821.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2822.png",
+
+
+"mask": "mask_2822.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2823.png",
+
+
+"mask": "mask_2823.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2824.png",
+
+
+"mask": "mask_2824.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2825.png",
+
+
+"mask": "mask_2825.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2826.png",
+
+
+"mask": "mask_2826.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2827.png",
+
+
+"mask": "mask_2827.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2828.png",
+
+
+"mask": "mask_2828.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2829.png",
+
+
+"mask": "mask_2829.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2830.png",
+
+
+"mask": "mask_2830.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2831.png",
+
+
+"mask": "mask_2831.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2832.png",
+
+
+"mask": "mask_2832.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2833.png",
+
+
+"mask": "mask_2833.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2834.png",
+
+
+"mask": "mask_2834.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2848.png",
+
+
+"mask": "mask_2848.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2852.png",
+
+
+"mask": "mask_2852.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2853.png",
+
+
+"mask": "mask_2853.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2854.png",
+
+
+"mask": "mask_2854.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2855.png",
+
+
+"mask": "mask_2855.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2856.png",
+
+
+"mask": "mask_2856.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2857.png",
+
+
+"mask": "mask_2857.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2858.png",
+
+
+"mask": "mask_2858.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2859.png",
+
+
+"mask": "mask_2859.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2860.png",
+
+
+"mask": "mask_2860.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2861.png",
+
+
+"mask": "mask_2861.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2862.png",
+
+
+"mask": "mask_2862.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2863.png",
+
+
+"mask": "mask_2863.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2864.png",
+
+
+"mask": "mask_2864.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2865.png",
+
+
+"mask": "mask_2865.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2866.png",
+
+
+"mask": "mask_2866.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2867.png",
+
+
+"mask": "mask_2867.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2868.png",
+
+
+"mask": "mask_2868.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2869.png",
+
+
+"mask": "mask_2869.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2870.png",
+
+
+"mask": "mask_2870.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2871.png",
+
+
+"mask": "mask_2871.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2872.png",
+
+
+"mask": "mask_2872.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2873.png",
+
+
+"mask": "mask_2873.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2874.png",
+
+
+"mask": "mask_2874.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2876.png",
+
+
+"mask": "mask_2876.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2877.png",
+
+
+"mask": "mask_2877.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_288.png",
+
+
+"mask": "mask_288.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2894.png",
+
+
+"mask": "mask_2894.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2895.png",
+
+
+"mask": "mask_2895.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2896.png",
+
+
+"mask": "mask_2896.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2897.png",
+
+
+"mask": "mask_2897.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2898.png",
+
+
+"mask": "mask_2898.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2899.png",
+
+
+"mask": "mask_2899.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_290.png",
+
+
+"mask": "mask_290.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2900.png",
+
+
+"mask": "mask_2900.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2901.png",
+
+
+"mask": "mask_2901.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2902.png",
+
+
+"mask": "mask_2902.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2903.png",
+
+
+"mask": "mask_2903.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2904.png",
+
+
+"mask": "mask_2904.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2905.png",
+
+
+"mask": "mask_2905.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2906.png",
+
+
+"mask": "mask_2906.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2907.png",
+
+
+"mask": "mask_2907.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2908.png",
+
+
+"mask": "mask_2908.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2909.png",
+
+
+"mask": "mask_2909.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2910.png",
+
+
+"mask": "mask_2910.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2911.png",
+
+
+"mask": "mask_2911.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2912.png",
+
+
+"mask": "mask_2912.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2913.png",
+
+
+"mask": "mask_2913.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2914.png",
+
+
+"mask": "mask_2914.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2915.png",
+
+
+"mask": "mask_2915.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_293.png",
+
+
+"mask": "mask_293.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2933.png",
+
+
+"mask": "mask_2933.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2934.png",
+
+
+"mask": "mask_2934.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2935.png",
+
+
+"mask": "mask_2935.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2936.png",
+
+
+"mask": "mask_2936.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2937.png",
+
+
+"mask": "mask_2937.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2938.png",
+
+
+"mask": "mask_2938.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2939.png",
+
+
+"mask": "mask_2939.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_294.png",
+
+
+"mask": "mask_294.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2940.png",
+
+
+"mask": "mask_2940.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2941.png",
+
+
+"mask": "mask_2941.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2942.png",
+
+
+"mask": "mask_2942.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2943.png",
+
+
+"mask": "mask_2943.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2944.png",
+
+
+"mask": "mask_2944.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2945.png",
+
+
+"mask": "mask_2945.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2946.png",
+
+
+"mask": "mask_2946.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2947.png",
+
+
+"mask": "mask_2947.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2948.png",
+
+
+"mask": "mask_2948.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2949.png",
+
+
+"mask": "mask_2949.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_295.png",
+
+
+"mask": "mask_295.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2950.png",
+
+
+"mask": "mask_2950.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2951.png",
+
+
+"mask": "mask_2951.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2952.png",
+
+
+"mask": "mask_2952.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2953.png",
+
+
+"mask": "mask_2953.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2954.png",
+
+
+"mask": "mask_2954.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2955.png",
+
+
+"mask": "mask_2955.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2956.png",
+
+
+"mask": "mask_2956.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2957.png",
+
+
+"mask": "mask_2957.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_296.png",
+
+
+"mask": "mask_296.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2968.png",
+
+
+"mask": "mask_2968.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_297.png",
+
+
+"mask": "mask_297.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2972.png",
+
+
+"mask": "mask_2972.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2974.png",
+
+
+"mask": "mask_2974.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2975.png",
+
+
+"mask": "mask_2975.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2976.png",
+
+
+"mask": "mask_2976.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2978.png",
+
+
+"mask": "mask_2978.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2979.png",
+
+
+"mask": "mask_2979.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_298.png",
+
+
+"mask": "mask_298.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2980.png",
+
+
+"mask": "mask_2980.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2981.png",
+
+
+"mask": "mask_2981.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2982.png",
+
+
+"mask": "mask_2982.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2983.png",
+
+
+"mask": "mask_2983.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2984.png",
+
+
+"mask": "mask_2984.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2985.png",
+
+
+"mask": "mask_2985.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2986.png",
+
+
+"mask": "mask_2986.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2987.png",
+
+
+"mask": "mask_2987.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2988.png",
+
+
+"mask": "mask_2988.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2989.png",
+
+
+"mask": "mask_2989.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2990.png",
+
+
+"mask": "mask_2990.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2991.png",
+
+
+"mask": "mask_2991.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2992.png",
+
+
+"mask": "mask_2992.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2993.png",
+
+
+"mask": "mask_2993.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2994.png",
+
+
+"mask": "mask_2994.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2995.png",
+
+
+"mask": "mask_2995.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2996.png",
+
+
+"mask": "mask_2996.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_2997.png",
+
+
+"mask": "mask_2997.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3.png",
+
+
+"mask": "mask_3.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3015.png",
+
+
+"mask": "mask_3015.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3016.png",
+
+
+"mask": "mask_3016.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3019.png",
+
+
+"mask": "mask_3019.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3020.png",
+
+
+"mask": "mask_3020.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3021.png",
+
+
+"mask": "mask_3021.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3022.png",
+
+
+"mask": "mask_3022.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3023.png",
+
+
+"mask": "mask_3023.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3024.png",
+
+
+"mask": "mask_3024.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3025.png",
+
+
+"mask": "mask_3025.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3026.png",
+
+
+"mask": "mask_3026.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3027.png",
+
+
+"mask": "mask_3027.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3028.png",
+
+
+"mask": "mask_3028.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3029.png",
+
+
+"mask": "mask_3029.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3030.png",
+
+
+"mask": "mask_3030.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3031.png",
+
+
+"mask": "mask_3031.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3032.png",
+
+
+"mask": "mask_3032.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3033.png",
+
+
+"mask": "mask_3033.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3034.png",
+
+
+"mask": "mask_3034.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3035.png",
+
+
+"mask": "mask_3035.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3036.png",
+
+
+"mask": "mask_3036.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3041.png",
+
+
+"mask": "mask_3041.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3042.png",
+
+
+"mask": "mask_3042.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3043.png",
+
+
+"mask": "mask_3043.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3047.png",
+
+
+"mask": "mask_3047.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3048.png",
+
+
+"mask": "mask_3048.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3049.png",
+
+
+"mask": "mask_3049.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3050.png",
+
+
+"mask": "mask_3050.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3057.png",
+
+
+"mask": "mask_3057.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3058.png",
+
+
+"mask": "mask_3058.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3061.png",
+
+
+"mask": "mask_3061.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3062.png",
+
+
+"mask": "mask_3062.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3063.png",
+
+
+"mask": "mask_3063.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3064.png",
+
+
+"mask": "mask_3064.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3065.png",
+
+
+"mask": "mask_3065.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3079.png",
+
+
+"mask": "mask_3079.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3080.png",
+
+
+"mask": "mask_3080.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3093.png",
+
+
+"mask": "mask_3093.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3094.png",
+
+
+"mask": "mask_3094.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3095.png",
+
+
+"mask": "mask_3095.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3096.png",
+
+
+"mask": "mask_3096.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3109.png",
+
+
+"mask": "mask_3109.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3110.png",
+
+
+"mask": "mask_3110.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_316.png",
+
+
+"mask": "mask_316.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_318.png",
+
+
+"mask": "mask_318.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3188.png",
+
+
+"mask": "mask_3188.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_319.png",
+
+
+"mask": "mask_319.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3190.png",
+
+
+"mask": "mask_3190.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3191.png",
+
+
+"mask": "mask_3191.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3192.png",
+
+
+"mask": "mask_3192.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3193.png",
+
+
+"mask": "mask_3193.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3195.png",
+
+
+"mask": "mask_3195.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3199.png",
+
+
+"mask": "mask_3199.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3200.png",
+
+
+"mask": "mask_3200.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3201.png",
+
+
+"mask": "mask_3201.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3202.png",
+
+
+"mask": "mask_3202.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3204.png",
+
+
+"mask": "mask_3204.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3209.png",
+
+
+"mask": "mask_3209.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3211.png",
+
+
+"mask": "mask_3211.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3212.png",
+
+
+"mask": "mask_3212.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3219.png",
+
+
+"mask": "mask_3219.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3220.png",
+
+
+"mask": "mask_3220.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3221.png",
+
+
+"mask": "mask_3221.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3222.png",
+
+
+"mask": "mask_3222.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3227.png",
+
+
+"mask": "mask_3227.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3228.png",
+
+
+"mask": "mask_3228.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_323.png",
+
+
+"mask": "mask_323.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3238.png",
+
+
+"mask": "mask_3238.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3239.png",
+
+
+"mask": "mask_3239.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3241.png",
+
+
+"mask": "mask_3241.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3247.png",
+
+
+"mask": "mask_3247.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3249.png",
+
+
+"mask": "mask_3249.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3250.png",
+
+
+"mask": "mask_3250.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3251.png",
+
+
+"mask": "mask_3251.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3252.png",
+
+
+"mask": "mask_3252.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3256.png",
+
+
+"mask": "mask_3256.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3257.png",
+
+
+"mask": "mask_3257.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3258.png",
+
+
+"mask": "mask_3258.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3259.png",
+
+
+"mask": "mask_3259.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3260.png",
+
+
+"mask": "mask_3260.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3261.png",
+
+
+"mask": "mask_3261.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3262.png",
+
+
+"mask": "mask_3262.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3263.png",
+
+
+"mask": "mask_3263.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3267.png",
+
+
+"mask": "mask_3267.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3268.png",
+
+
+"mask": "mask_3268.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3269.png",
+
+
+"mask": "mask_3269.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3271.png",
+
+
+"mask": "mask_3271.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3272.png",
+
+
+"mask": "mask_3272.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3273.png",
+
+
+"mask": "mask_3273.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3277.png",
+
+
+"mask": "mask_3277.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3279.png",
+
+
+"mask": "mask_3279.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3280.png",
+
+
+"mask": "mask_3280.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3283.png",
+
+
+"mask": "mask_3283.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3287.png",
+
+
+"mask": "mask_3287.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3288.png",
+
+
+"mask": "mask_3288.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3289.png",
+
+
+"mask": "mask_3289.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_329.png",
+
+
+"mask": "mask_329.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3298.png",
+
+
+"mask": "mask_3298.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3300.png",
+
+
+"mask": "mask_3300.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3303.png",
+
+
+"mask": "mask_3303.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3306.png",
+
+
+"mask": "mask_3306.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3307.png",
+
+
+"mask": "mask_3307.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3308.png",
+
+
+"mask": "mask_3308.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3309.png",
+
+
+"mask": "mask_3309.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_331.png",
+
+
+"mask": "mask_331.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3310.png",
+
+
+"mask": "mask_3310.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3311.png",
+
+
+"mask": "mask_3311.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3312.png",
+
+
+"mask": "mask_3312.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3313.png",
+
+
+"mask": "mask_3313.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3314.png",
+
+
+"mask": "mask_3314.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3315.png",
+
+
+"mask": "mask_3315.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3316.png",
+
+
+"mask": "mask_3316.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3317.png",
+
+
+"mask": "mask_3317.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3318.png",
+
+
+"mask": "mask_3318.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3319.png",
+
+
+"mask": "mask_3319.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_332.png",
+
+
+"mask": "mask_332.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3320.png",
+
+
+"mask": "mask_3320.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3321.png",
+
+
+"mask": "mask_3321.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3325.png",
+
+
+"mask": "mask_3325.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3327.png",
+
+
+"mask": "mask_3327.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3328.png",
+
+
+"mask": "mask_3328.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3329.png",
+
+
+"mask": "mask_3329.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3330.png",
+
+
+"mask": "mask_3330.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3331.png",
+
+
+"mask": "mask_3331.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3332.png",
+
+
+"mask": "mask_3332.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3333.png",
+
+
+"mask": "mask_3333.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3334.png",
+
+
+"mask": "mask_3334.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3335.png",
+
+
+"mask": "mask_3335.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3336.png",
+
+
+"mask": "mask_3336.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3337.png",
+
+
+"mask": "mask_3337.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3338.png",
+
+
+"mask": "mask_3338.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3339.png",
+
+
+"mask": "mask_3339.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3340.png",
+
+
+"mask": "mask_3340.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3341.png",
+
+
+"mask": "mask_3341.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3342.png",
+
+
+"mask": "mask_3342.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3343.png",
+
+
+"mask": "mask_3343.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3344.png",
+
+
+"mask": "mask_3344.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3345.png",
+
+
+"mask": "mask_3345.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3346.png",
+
+
+"mask": "mask_3346.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3347.png",
+
+
+"mask": "mask_3347.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3350.png",
+
+
+"mask": "mask_3350.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3351.png",
+
+
+"mask": "mask_3351.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3353.png",
+
+
+"mask": "mask_3353.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3354.png",
+
+
+"mask": "mask_3354.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3355.png",
+
+
+"mask": "mask_3355.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3356.png",
+
+
+"mask": "mask_3356.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3357.png",
+
+
+"mask": "mask_3357.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3359.png",
+
+
+"mask": "mask_3359.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_336.png",
+
+
+"mask": "mask_336.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3360.png",
+
+
+"mask": "mask_3360.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3361.png",
+
+
+"mask": "mask_3361.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3362.png",
+
+
+"mask": "mask_3362.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3363.png",
+
+
+"mask": "mask_3363.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3364.png",
+
+
+"mask": "mask_3364.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3365.png",
+
+
+"mask": "mask_3365.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3367.png",
+
+
+"mask": "mask_3367.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3368.png",
+
+
+"mask": "mask_3368.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3369.png",
+
+
+"mask": "mask_3369.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_337.png",
+
+
+"mask": "mask_337.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3371.png",
+
+
+"mask": "mask_3371.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3372.png",
+
+
+"mask": "mask_3372.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3373.png",
+
+
+"mask": "mask_3373.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3375.png",
+
+
+"mask": "mask_3375.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3376.png",
+
+
+"mask": "mask_3376.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3377.png",
+
+
+"mask": "mask_3377.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3378.png",
+
+
+"mask": "mask_3378.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3379.png",
+
+
+"mask": "mask_3379.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_338.png",
+
+
+"mask": "mask_338.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3380.png",
+
+
+"mask": "mask_3380.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3381.png",
+
+
+"mask": "mask_3381.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3382.png",
+
+
+"mask": "mask_3382.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3383.png",
+
+
+"mask": "mask_3383.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3384.png",
+
+
+"mask": "mask_3384.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3385.png",
+
+
+"mask": "mask_3385.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3386.png",
+
+
+"mask": "mask_3386.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3387.png",
+
+
+"mask": "mask_3387.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3388.png",
+
+
+"mask": "mask_3388.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3389.png",
+
+
+"mask": "mask_3389.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3390.png",
+
+
+"mask": "mask_3390.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3392.png",
+
+
+"mask": "mask_3392.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3395.png",
+
+
+"mask": "mask_3395.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3397.png",
+
+
+"mask": "mask_3397.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3398.png",
+
+
+"mask": "mask_3398.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3399.png",
+
+
+"mask": "mask_3399.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3400.png",
+
+
+"mask": "mask_3400.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3401.png",
+
+
+"mask": "mask_3401.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3402.png",
+
+
+"mask": "mask_3402.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3403.png",
+
+
+"mask": "mask_3403.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3404.png",
+
+
+"mask": "mask_3404.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3405.png",
+
+
+"mask": "mask_3405.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3406.png",
+
+
+"mask": "mask_3406.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3407.png",
+
+
+"mask": "mask_3407.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3408.png",
+
+
+"mask": "mask_3408.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3409.png",
+
+
+"mask": "mask_3409.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3410.png",
+
+
+"mask": "mask_3410.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3411.png",
+
+
+"mask": "mask_3411.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3412.png",
+
+
+"mask": "mask_3412.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3413.png",
+
+
+"mask": "mask_3413.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3414.png",
+
+
+"mask": "mask_3414.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3415.png",
+
+
+"mask": "mask_3415.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3416.png",
+
+
+"mask": "mask_3416.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3417.png",
+
+
+"mask": "mask_3417.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3418.png",
+
+
+"mask": "mask_3418.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3425.png",
+
+
+"mask": "mask_3425.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3426.png",
+
+
+"mask": "mask_3426.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3429.png",
+
+
+"mask": "mask_3429.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3430.png",
+
+
+"mask": "mask_3430.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3431.png",
+
+
+"mask": "mask_3431.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3432.png",
+
+
+"mask": "mask_3432.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3433.png",
+
+
+"mask": "mask_3433.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3434.png",
+
+
+"mask": "mask_3434.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3435.png",
+
+
+"mask": "mask_3435.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3436.png",
+
+
+"mask": "mask_3436.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3437.png",
+
+
+"mask": "mask_3437.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3438.png",
+
+
+"mask": "mask_3438.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3439.png",
+
+
+"mask": "mask_3439.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3442.png",
+
+
+"mask": "mask_3442.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3443.png",
+
+
+"mask": "mask_3443.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3444.png",
+
+
+"mask": "mask_3444.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3445.png",
+
+
+"mask": "mask_3445.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3446.png",
+
+
+"mask": "mask_3446.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3453.png",
+
+
+"mask": "mask_3453.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3454.png",
+
+
+"mask": "mask_3454.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3455.png",
+
+
+"mask": "mask_3455.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3456.png",
+
+
+"mask": "mask_3456.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3457.png",
+
+
+"mask": "mask_3457.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3458.png",
+
+
+"mask": "mask_3458.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3459.png",
+
+
+"mask": "mask_3459.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3460.png",
+
+
+"mask": "mask_3460.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3461.png",
+
+
+"mask": "mask_3461.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3462.png",
+
+
+"mask": "mask_3462.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3463.png",
+
+
+"mask": "mask_3463.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3469.png",
+
+
+"mask": "mask_3469.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3481.png",
+
+
+"mask": "mask_3481.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3482.png",
+
+
+"mask": "mask_3482.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3483.png",
+
+
+"mask": "mask_3483.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3484.png",
+
+
+"mask": "mask_3484.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3485.png",
+
+
+"mask": "mask_3485.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3486.png",
+
+
+"mask": "mask_3486.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3487.png",
+
+
+"mask": "mask_3487.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3488.png",
+
+
+"mask": "mask_3488.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3489.png",
+
+
+"mask": "mask_3489.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3494.png",
+
+
+"mask": "mask_3494.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3495.png",
+
+
+"mask": "mask_3495.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3496.png",
+
+
+"mask": "mask_3496.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_350.png",
+
+
+"mask": "mask_350.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3507.png",
+
+
+"mask": "mask_3507.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3508.png",
+
+
+"mask": "mask_3508.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3509.png",
+
+
+"mask": "mask_3509.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3510.png",
+
+
+"mask": "mask_3510.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3511.png",
+
+
+"mask": "mask_3511.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3512.png",
+
+
+"mask": "mask_3512.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3513.png",
+
+
+"mask": "mask_3513.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3514.png",
+
+
+"mask": "mask_3514.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3515.png",
+
+
+"mask": "mask_3515.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3518.png",
+
+
+"mask": "mask_3518.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3521.png",
+
+
+"mask": "mask_3521.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3522.png",
+
+
+"mask": "mask_3522.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3523.png",
+
+
+"mask": "mask_3523.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3524.png",
+
+
+"mask": "mask_3524.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3532.png",
+
+
+"mask": "mask_3532.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3533.png",
+
+
+"mask": "mask_3533.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3534.png",
+
+
+"mask": "mask_3534.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3535.png",
+
+
+"mask": "mask_3535.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3536.png",
+
+
+"mask": "mask_3536.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3537.png",
+
+
+"mask": "mask_3537.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3538.png",
+
+
+"mask": "mask_3538.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3539.png",
+
+
+"mask": "mask_3539.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3540.png",
+
+
+"mask": "mask_3540.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3541.png",
+
+
+"mask": "mask_3541.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3542.png",
+
+
+"mask": "mask_3542.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3543.png",
+
+
+"mask": "mask_3543.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3548.png",
+
+
+"mask": "mask_3548.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3549.png",
+
+
+"mask": "mask_3549.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3550.png",
+
+
+"mask": "mask_3550.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3558.png",
+
+
+"mask": "mask_3558.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3559.png",
+
+
+"mask": "mask_3559.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3560.png",
+
+
+"mask": "mask_3560.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3561.png",
+
+
+"mask": "mask_3561.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3562.png",
+
+
+"mask": "mask_3562.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3563.png",
+
+
+"mask": "mask_3563.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3564.png",
+
+
+"mask": "mask_3564.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3565.png",
+
+
+"mask": "mask_3565.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3566.png",
+
+
+"mask": "mask_3566.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3567.png",
+
+
+"mask": "mask_3567.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3568.png",
+
+
+"mask": "mask_3568.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3569.png",
+
+
+"mask": "mask_3569.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_357.png",
+
+
+"mask": "mask_357.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3570.png",
+
+
+"mask": "mask_3570.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3571.png",
+
+
+"mask": "mask_3571.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3575.png",
+
+
+"mask": "mask_3575.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3576.png",
+
+
+"mask": "mask_3576.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3577.png",
+
+
+"mask": "mask_3577.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3578.png",
+
+
+"mask": "mask_3578.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3579.png",
+
+
+"mask": "mask_3579.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3582.png",
+
+
+"mask": "mask_3582.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3583.png",
+
+
+"mask": "mask_3583.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3584.png",
+
+
+"mask": "mask_3584.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3585.png",
+
+
+"mask": "mask_3585.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3586.png",
+
+
+"mask": "mask_3586.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3587.png",
+
+
+"mask": "mask_3587.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3588.png",
+
+
+"mask": "mask_3588.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3589.png",
+
+
+"mask": "mask_3589.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3590.png",
+
+
+"mask": "mask_3590.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3591.png",
+
+
+"mask": "mask_3591.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3592.png",
+
+
+"mask": "mask_3592.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3593.png",
+
+
+"mask": "mask_3593.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3594.png",
+
+
+"mask": "mask_3594.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3595.png",
+
+
+"mask": "mask_3595.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3596.png",
+
+
+"mask": "mask_3596.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3603.png",
+
+
+"mask": "mask_3603.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3604.png",
+
+
+"mask": "mask_3604.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3605.png",
+
+
+"mask": "mask_3605.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3607.png",
+
+
+"mask": "mask_3607.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3608.png",
+
+
+"mask": "mask_3608.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3609.png",
+
+
+"mask": "mask_3609.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3610.png",
+
+
+"mask": "mask_3610.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3611.png",
+
+
+"mask": "mask_3611.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3612.png",
+
+
+"mask": "mask_3612.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3613.png",
+
+
+"mask": "mask_3613.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3614.png",
+
+
+"mask": "mask_3614.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3615.png",
+
+
+"mask": "mask_3615.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3616.png",
+
+
+"mask": "mask_3616.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3617.png",
+
+
+"mask": "mask_3617.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3618.png",
+
+
+"mask": "mask_3618.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3619.png",
+
+
+"mask": "mask_3619.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3620.png",
+
+
+"mask": "mask_3620.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3621.png",
+
+
+"mask": "mask_3621.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3622.png",
+
+
+"mask": "mask_3622.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3623.png",
+
+
+"mask": "mask_3623.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3624.png",
+
+
+"mask": "mask_3624.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3625.png",
+
+
+"mask": "mask_3625.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3627.png",
+
+
+"mask": "mask_3627.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3630.png",
+
+
+"mask": "mask_3630.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3631.png",
+
+
+"mask": "mask_3631.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3632.png",
+
+
+"mask": "mask_3632.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3633.png",
+
+
+"mask": "mask_3633.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3634.png",
+
+
+"mask": "mask_3634.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3635.png",
+
+
+"mask": "mask_3635.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3636.png",
+
+
+"mask": "mask_3636.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3637.png",
+
+
+"mask": "mask_3637.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3638.png",
+
+
+"mask": "mask_3638.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3639.png",
+
+
+"mask": "mask_3639.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3640.png",
+
+
+"mask": "mask_3640.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3641.png",
+
+
+"mask": "mask_3641.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3642.png",
+
+
+"mask": "mask_3642.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3643.png",
+
+
+"mask": "mask_3643.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3644.png",
+
+
+"mask": "mask_3644.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3645.png",
+
+
+"mask": "mask_3645.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3646.png",
+
+
+"mask": "mask_3646.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3647.png",
+
+
+"mask": "mask_3647.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3648.png",
+
+
+"mask": "mask_3648.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3649.png",
+
+
+"mask": "mask_3649.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3650.png",
+
+
+"mask": "mask_3650.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3651.png",
+
+
+"mask": "mask_3651.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3652.png",
+
+
+"mask": "mask_3652.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3653.png",
+
+
+"mask": "mask_3653.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3654.png",
+
+
+"mask": "mask_3654.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3655.png",
+
+
+"mask": "mask_3655.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3656.png",
+
+
+"mask": "mask_3656.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3657.png",
+
+
+"mask": "mask_3657.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3658.png",
+
+
+"mask": "mask_3658.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3659.png",
+
+
+"mask": "mask_3659.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3660.png",
+
+
+"mask": "mask_3660.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3661.png",
+
+
+"mask": "mask_3661.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3662.png",
+
+
+"mask": "mask_3662.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3663.png",
+
+
+"mask": "mask_3663.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3664.png",
+
+
+"mask": "mask_3664.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3665.png",
+
+
+"mask": "mask_3665.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3666.png",
+
+
+"mask": "mask_3666.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3667.png",
+
+
+"mask": "mask_3667.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3668.png",
+
+
+"mask": "mask_3668.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3669.png",
+
+
+"mask": "mask_3669.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3670.png",
+
+
+"mask": "mask_3670.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3671.png",
+
+
+"mask": "mask_3671.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3672.png",
+
+
+"mask": "mask_3672.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3673.png",
+
+
+"mask": "mask_3673.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3674.png",
+
+
+"mask": "mask_3674.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3675.png",
+
+
+"mask": "mask_3675.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3676.png",
+
+
+"mask": "mask_3676.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3677.png",
+
+
+"mask": "mask_3677.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3678.png",
+
+
+"mask": "mask_3678.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3679.png",
+
+
+"mask": "mask_3679.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3680.png",
+
+
+"mask": "mask_3680.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3681.png",
+
+
+"mask": "mask_3681.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3682.png",
+
+
+"mask": "mask_3682.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3683.png",
+
+
+"mask": "mask_3683.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3684.png",
+
+
+"mask": "mask_3684.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3685.png",
+
+
+"mask": "mask_3685.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3686.png",
+
+
+"mask": "mask_3686.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3687.png",
+
+
+"mask": "mask_3687.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3689.png",
+
+
+"mask": "mask_3689.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3690.png",
+
+
+"mask": "mask_3690.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3691.png",
+
+
+"mask": "mask_3691.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3692.png",
+
+
+"mask": "mask_3692.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3693.png",
+
+
+"mask": "mask_3693.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3694.png",
+
+
+"mask": "mask_3694.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3695.png",
+
+
+"mask": "mask_3695.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3696.png",
+
+
+"mask": "mask_3696.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3697.png",
+
+
+"mask": "mask_3697.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3698.png",
+
+
+"mask": "mask_3698.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3699.png",
+
+
+"mask": "mask_3699.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_370.png",
+
+
+"mask": "mask_370.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3700.png",
+
+
+"mask": "mask_3700.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3701.png",
+
+
+"mask": "mask_3701.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3702.png",
+
+
+"mask": "mask_3702.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3703.png",
+
+
+"mask": "mask_3703.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3704.png",
+
+
+"mask": "mask_3704.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3705.png",
+
+
+"mask": "mask_3705.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3706.png",
+
+
+"mask": "mask_3706.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3707.png",
+
+
+"mask": "mask_3707.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3708.png",
+
+
+"mask": "mask_3708.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3709.png",
+
+
+"mask": "mask_3709.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_371.png",
+
+
+"mask": "mask_371.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3710.png",
+
+
+"mask": "mask_3710.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3711.png",
+
+
+"mask": "mask_3711.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3712.png",
+
+
+"mask": "mask_3712.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3714.png",
+
+
+"mask": "mask_3714.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3715.png",
+
+
+"mask": "mask_3715.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3717.png",
+
+
+"mask": "mask_3717.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3718.png",
+
+
+"mask": "mask_3718.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3719.png",
+
+
+"mask": "mask_3719.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_372.png",
+
+
+"mask": "mask_372.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3720.png",
+
+
+"mask": "mask_3720.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3721.png",
+
+
+"mask": "mask_3721.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3722.png",
+
+
+"mask": "mask_3722.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3723.png",
+
+
+"mask": "mask_3723.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3724.png",
+
+
+"mask": "mask_3724.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3726.png",
+
+
+"mask": "mask_3726.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3727.png",
+
+
+"mask": "mask_3727.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3728.png",
+
+
+"mask": "mask_3728.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3729.png",
+
+
+"mask": "mask_3729.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3730.png",
+
+
+"mask": "mask_3730.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3731.png",
+
+
+"mask": "mask_3731.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3732.png",
+
+
+"mask": "mask_3732.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3733.png",
+
+
+"mask": "mask_3733.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3734.png",
+
+
+"mask": "mask_3734.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3735.png",
+
+
+"mask": "mask_3735.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3736.png",
+
+
+"mask": "mask_3736.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3737.png",
+
+
+"mask": "mask_3737.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3738.png",
+
+
+"mask": "mask_3738.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3739.png",
+
+
+"mask": "mask_3739.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_374.png",
+
+
+"mask": "mask_374.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3740.png",
+
+
+"mask": "mask_3740.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3741.png",
+
+
+"mask": "mask_3741.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3742.png",
+
+
+"mask": "mask_3742.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3743.png",
+
+
+"mask": "mask_3743.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3744.png",
+
+
+"mask": "mask_3744.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3745.png",
+
+
+"mask": "mask_3745.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3746.png",
+
+
+"mask": "mask_3746.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3747.png",
+
+
+"mask": "mask_3747.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3748.png",
+
+
+"mask": "mask_3748.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3749.png",
+
+
+"mask": "mask_3749.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3750.png",
+
+
+"mask": "mask_3750.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3751.png",
+
+
+"mask": "mask_3751.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3752.png",
+
+
+"mask": "mask_3752.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3753.png",
+
+
+"mask": "mask_3753.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3754.png",
+
+
+"mask": "mask_3754.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3755.png",
+
+
+"mask": "mask_3755.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3756.png",
+
+
+"mask": "mask_3756.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3757.png",
+
+
+"mask": "mask_3757.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3758.png",
+
+
+"mask": "mask_3758.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3759.png",
+
+
+"mask": "mask_3759.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3760.png",
+
+
+"mask": "mask_3760.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3761.png",
+
+
+"mask": "mask_3761.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3762.png",
+
+
+"mask": "mask_3762.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3763.png",
+
+
+"mask": "mask_3763.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3764.png",
+
+
+"mask": "mask_3764.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3765.png",
+
+
+"mask": "mask_3765.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3766.png",
+
+
+"mask": "mask_3766.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3767.png",
+
+
+"mask": "mask_3767.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3768.png",
+
+
+"mask": "mask_3768.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3769.png",
+
+
+"mask": "mask_3769.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3770.png",
+
+
+"mask": "mask_3770.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3771.png",
+
+
+"mask": "mask_3771.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3772.png",
+
+
+"mask": "mask_3772.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3773.png",
+
+
+"mask": "mask_3773.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3774.png",
+
+
+"mask": "mask_3774.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3775.png",
+
+
+"mask": "mask_3775.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3776.png",
+
+
+"mask": "mask_3776.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3777.png",
+
+
+"mask": "mask_3777.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3778.png",
+
+
+"mask": "mask_3778.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3779.png",
+
+
+"mask": "mask_3779.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_378.png",
+
+
+"mask": "mask_378.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3780.png",
+
+
+"mask": "mask_3780.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3781.png",
+
+
+"mask": "mask_3781.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3782.png",
+
+
+"mask": "mask_3782.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3783.png",
+
+
+"mask": "mask_3783.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3784.png",
+
+
+"mask": "mask_3784.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3785.png",
+
+
+"mask": "mask_3785.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3786.png",
+
+
+"mask": "mask_3786.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3787.png",
+
+
+"mask": "mask_3787.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3788.png",
+
+
+"mask": "mask_3788.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3789.png",
+
+
+"mask": "mask_3789.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_379.png",
+
+
+"mask": "mask_379.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3790.png",
+
+
+"mask": "mask_3790.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3791.png",
+
+
+"mask": "mask_3791.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3792.png",
+
+
+"mask": "mask_3792.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3793.png",
+
+
+"mask": "mask_3793.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3794.png",
+
+
+"mask": "mask_3794.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3795.png",
+
+
+"mask": "mask_3795.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3796.png",
+
+
+"mask": "mask_3796.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3797.png",
+
+
+"mask": "mask_3797.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3798.png",
+
+
+"mask": "mask_3798.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_3799.png",
+
+
+"mask": "mask_3799.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_389.png",
+
+
+"mask": "mask_389.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_402.png",
+
+
+"mask": "mask_402.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_403.png",
+
+
+"mask": "mask_403.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_404.png",
+
+
+"mask": "mask_404.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_407.png",
+
+
+"mask": "mask_407.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_408.png",
+
+
+"mask": "mask_408.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_411.png",
+
+
+"mask": "mask_411.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_412.png",
+
+
+"mask": "mask_412.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_413.png",
+
+
+"mask": "mask_413.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_414.png",
+
+
+"mask": "mask_414.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_415.png",
+
+
+"mask": "mask_415.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_417.png",
+
+
+"mask": "mask_417.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_418.png",
+
+
+"mask": "mask_418.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_419.png",
+
+
+"mask": "mask_419.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_431.png",
+
+
+"mask": "mask_431.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_443.png",
+
+
+"mask": "mask_443.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_448.png",
+
+
+"mask": "mask_448.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_449.png",
+
+
+"mask": "mask_449.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_45.png",
+
+
+"mask": "mask_45.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_452.png",
+
+
+"mask": "mask_452.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_453.png",
+
+
+"mask": "mask_453.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_455.png",
+
+
+"mask": "mask_455.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_456.png",
+
+
+"mask": "mask_456.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_457.png",
+
+
+"mask": "mask_457.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_46.png",
+
+
+"mask": "mask_46.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_460.png",
+
+
+"mask": "mask_460.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_47.png",
+
+
+"mask": "mask_47.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_470.png",
+
+
+"mask": "mask_470.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_48.png",
+
+
+"mask": "mask_48.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_484.png",
+
+
+"mask": "mask_484.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_487.png",
+
+
+"mask": "mask_487.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_488.png",
+
+
+"mask": "mask_488.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_489.png",
+
+
+"mask": "mask_489.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_490.png",
+
+
+"mask": "mask_490.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_491.png",
+
+
+"mask": "mask_491.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_493.png",
+
+
+"mask": "mask_493.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_498.png",
+
+
+"mask": "mask_498.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_499.png",
+
+
+"mask": "mask_499.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_52.png",
+
+
+"mask": "mask_52.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_524.png",
+
+
+"mask": "mask_524.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_526.png",
+
+
+"mask": "mask_526.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_530.png",
+
+
+"mask": "mask_530.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_532.png",
+
+
+"mask": "mask_532.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_539.png",
+
+
+"mask": "mask_539.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_540.png",
+
+
+"mask": "mask_540.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_544.png",
+
+
+"mask": "mask_544.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_545.png",
+
+
+"mask": "mask_545.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_546.png",
+
+
+"mask": "mask_546.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_55.png",
+
+
+"mask": "mask_55.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_551.png",
+
+
+"mask": "mask_551.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_56.png",
+
+
+"mask": "mask_56.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_565.png",
+
+
+"mask": "mask_565.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_568.png",
+
+
+"mask": "mask_568.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_569.png",
+
+
+"mask": "mask_569.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_57.png",
+
+
+"mask": "mask_57.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_571.png",
+
+
+"mask": "mask_571.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_572.png",
+
+
+"mask": "mask_572.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_573.png",
+
+
+"mask": "mask_573.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_574.png",
+
+
+"mask": "mask_574.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_575.png",
+
+
+"mask": "mask_575.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_578.png",
+
+
+"mask": "mask_578.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_579.png",
+
+
+"mask": "mask_579.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_580.png",
+
+
+"mask": "mask_580.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_581.png",
+
+
+"mask": "mask_581.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_61.png",
+
+
+"mask": "mask_61.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_610.png",
+
+
+"mask": "mask_610.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_611.png",
+
+
+"mask": "mask_611.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_612.png",
+
+
+"mask": "mask_612.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_613.png",
+
+
+"mask": "mask_613.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_614.png",
+
+
+"mask": "mask_614.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_615.png",
+
+
+"mask": "mask_615.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_616.png",
+
+
+"mask": "mask_616.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_617.png",
+
+
+"mask": "mask_617.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_618.png",
+
+
+"mask": "mask_618.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_619.png",
+
+
+"mask": "mask_619.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_620.png",
+
+
+"mask": "mask_620.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_621.png",
+
+
+"mask": "mask_621.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_627.png",
+
+
+"mask": "mask_627.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_628.png",
+
+
+"mask": "mask_628.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_637.png",
+
+
+"mask": "mask_637.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_648.png",
+
+
+"mask": "mask_648.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_654.png",
+
+
+"mask": "mask_654.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_659.png",
+
+
+"mask": "mask_659.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_660.png",
+
+
+"mask": "mask_660.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_661.png",
+
+
+"mask": "mask_661.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_662.png",
+
+
+"mask": "mask_662.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_663.png",
+
+
+"mask": "mask_663.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_672.png",
+
+
+"mask": "mask_672.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_674.png",
+
+
+"mask": "mask_674.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_677.png",
+
+
+"mask": "mask_677.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_678.png",
+
+
+"mask": "mask_678.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_691.png",
+
+
+"mask": "mask_691.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_692.png",
+
+
+"mask": "mask_692.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_693.png",
+
+
+"mask": "mask_693.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_698.png",
+
+
+"mask": "mask_698.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_699.png",
+
+
+"mask": "mask_699.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_7.png",
+
+
+"mask": "mask_7.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_701.png",
+
+
+"mask": "mask_701.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_702.png",
+
+
+"mask": "mask_702.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_703.png",
+
+
+"mask": "mask_703.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_704.png",
+
+
+"mask": "mask_704.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_705.png",
+
+
+"mask": "mask_705.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_707.png",
+
+
+"mask": "mask_707.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_708.png",
+
+
+"mask": "mask_708.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_709.png",
+
+
+"mask": "mask_709.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_710.png",
+
+
+"mask": "mask_710.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_716.png",
+
+
+"mask": "mask_716.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_718.png",
+
+
+"mask": "mask_718.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_728.png",
+
+
+"mask": "mask_728.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_73.png",
+
+
+"mask": "mask_73.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_731.png",
+
+
+"mask": "mask_731.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_732.png",
+
+
+"mask": "mask_732.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_734.png",
+
+
+"mask": "mask_734.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_735.png",
+
+
+"mask": "mask_735.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_744.png",
+
+
+"mask": "mask_744.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_745.png",
+
+
+"mask": "mask_745.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_746.png",
+
+
+"mask": "mask_746.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_750.png",
+
+
+"mask": "mask_750.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_751.png",
+
+
+"mask": "mask_751.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_755.png",
+
+
+"mask": "mask_755.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_759.png",
+
+
+"mask": "mask_759.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_772.png",
+
+
+"mask": "mask_772.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_775.png",
+
+
+"mask": "mask_775.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_776.png",
+
+
+"mask": "mask_776.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_779.png",
+
+
+"mask": "mask_779.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_781.png",
+
+
+"mask": "mask_781.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_783.png",
+
+
+"mask": "mask_783.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_784.png",
+
+
+"mask": "mask_784.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_785.png",
+
+
+"mask": "mask_785.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_787.png",
+
+
+"mask": "mask_787.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_788.png",
+
+
+"mask": "mask_788.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_79.png",
+
+
+"mask": "mask_79.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_792.png",
+
+
+"mask": "mask_792.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_798.png",
+
+
+"mask": "mask_798.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_799.png",
+
+
+"mask": "mask_799.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_8.png",
+
+
+"mask": "mask_8.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_80.png",
+
+
+"mask": "mask_80.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_81.png",
+
+
+"mask": "mask_81.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_813.png",
+
+
+"mask": "mask_813.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_814.png",
+
+
+"mask": "mask_814.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_815.png",
+
+
+"mask": "mask_815.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_816.png",
+
+
+"mask": "mask_816.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_819.png",
+
+
+"mask": "mask_819.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_820.png",
+
+
+"mask": "mask_820.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_821.png",
+
+
+"mask": "mask_821.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_826.png",
+
+
+"mask": "mask_826.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_828.png",
+
+
+"mask": "mask_828.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_83.png",
+
+
+"mask": "mask_83.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_851.png",
+
+
+"mask": "mask_851.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_856.png",
+
+
+"mask": "mask_856.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_857.png",
+
+
+"mask": "mask_857.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_859.png",
+
+
+"mask": "mask_859.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_860.png",
+
+
+"mask": "mask_860.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_861.png",
+
+
+"mask": "mask_861.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_866.png",
+
+
+"mask": "mask_866.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_87.png",
+
+
+"mask": "mask_87.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_870.png",
+
+
+"mask": "mask_870.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_892.png",
+
+
+"mask": "mask_892.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_895.png",
+
+
+"mask": "mask_895.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_897.png",
+
+
+"mask": "mask_897.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_90.png",
+
+
+"mask": "mask_90.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_901.png",
+
+
+"mask": "mask_901.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_902.png",
+
+
+"mask": "mask_902.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_933.png",
+
+
+"mask": "mask_933.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_935.png",
+
+
+"mask": "mask_935.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_937.png",
+
+
+"mask": "mask_937.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_938.png",
+
+
+"mask": "mask_938.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_939.png",
+
+
+"mask": "mask_939.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_942.png",
+
+
+"mask": "mask_942.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_943.png",
+
+
+"mask": "mask_943.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_949.png",
+
+
+"mask": "mask_949.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_95.png",
+
+
+"mask": "mask_95.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_950.png",
+
+
+"mask": "mask_950.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_96.png",
+
+
+"mask": "mask_96.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_97.png",
+
+
+"mask": "mask_97.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_979.png",
+
+
+"mask": "mask_979.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_98.png",
+
+
+"mask": "mask_98.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_980.png",
+
+
+"mask": "mask_980.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_982.png",
+
+
+"mask": "mask_982.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_983.png",
+
+
+"mask": "mask_983.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_984.png",
+
+
+"mask": "mask_984.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_997.png",
+
+
+"mask": "mask_997.png",
+
+
+"label": "0"
+
+},
+
+{
+
+
+"img": "image_998.png",
+
+
+"mask": "mask_998.png",
+
+
+"label": "0"
+
+}
+]
